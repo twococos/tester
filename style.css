@@ -130,35 +130,41 @@ main {
 @media (max-width: 600px) {
   body {
     margin: 12px;
+    font-size: 1.05rem;
   }
 
   h1 {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     margin-bottom: 12px;
   }
 
   #stats {
-    font-size: 1.1rem;
+    font-size: 1.25rem;
     margin-bottom: 12px;
   }
 
   #question {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
   }
 
   #index {
-    width: 64px;
+    width: 72px;
   }
 
   #index button {
-    padding: 10px 0;
-    font-size: 1rem;
+    padding: 12px 0;
+    font-size: 1.05rem;
     border-radius: 8px;
   }
 
   .nav button {
-    padding: 12px 20px;
-    font-size: 1.05rem;
+    padding: 14px 22px;
+    font-size: 1.15rem;
     border-radius: 10px;
+  }
+
+  .answer {
+    padding: 14px 16px;
+    font-size: 1.05rem;
   }
 }
