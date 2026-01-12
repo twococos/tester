@@ -1,0 +1,139 @@
+1. Respecte als sistemes de protecció activa contra incendis d'un edifici, quina de les següents afirmacions és incorrecta?
+
+a. Qualsevol edifici tindrà com a mínim extintors manuals i enllumenat d'emergència
+b. Les boques d'incendi d'un edifici dins l'àmbit d'aplicació del CTE DB SI seran de 25 mm
+.c. La distribució dels detectors de fums és independent de l'alçada a la qual estan col·locats
+d. La columna seca està prevista per ser utilitzada pels bombers
+
+2. Respecte als sistemes de detecció i alarma automàtica contra incendis, podem afirmar que:
+
+a. Els detectors iònics són ideals per als aparcaments subterranis
+b. Els detectors de temperatura poden ser de tipus puntual o de barrera
+.c. Els polsadors manuals d'alarma no es poden considerar part del sistema de detecció automàtica
+d. Cap de les anteriors és certa
+
+3. Respecte a la descalcificació d’un tractament d’aigua, indica la resposta incorrecta:
+
+a. L’aigua conté productes minerals dissolts que poden precipitar amb temperatura elevada
+b. En aigües dures és necessari instal·lar un descalcificador en sistemes d’aigua calenta
+.c. Les resines d’intercanvi iònic provoquen la precipitació de CaCl i MgCl dins del dipòsit
+d. Cal una sortida a desaigua per l’aigua de rebuig
+
+4. Els problemes de sifonatge en les instal·lacions de sanejament venen donats per:
+
+a. Sifonatge per aspiració per formació de pistó hidràulic
+.b. Sifonatge per compressió generant depressió darrere del pistó
+c. Absència total de ventilació terciària
+d. Excés de pendent a les derivacions
+
+5. Pel que fa a l’SF6, assenyala la FALSA:
+
+a. És més dens que l’aire i es pot liquar per compressió
+b. En estat pur és incolor, inodor i no inflamable
+c. A altes temperatures es pot descompondre en substàncies tòxiques
+.d. La seva rigidesa dielèctrica disminueix amb la pressió
+
+6. Pel que fa als avantatges dels transformadors secs, assenyala la FALSA:
+
+a. No generen productes tòxics
+b. Són resistents al foc
+c. Requereixen menys manteniment
+.d. Són més barats que els transformadors d’oli
+
+7. Pel que fa a l’eficiència dels transformadors, assenyala la FALSA:
+
+a. La màxima eficiència s’aconsegueix entre el 50% i el 70% de càrrega
+.b. Sobredimensionar-lo comporta una eficiència reduïda en plena càrrega
+c. Infradimensionar-lo redueix l’eficiència en plena càrrega
+d. Pot provocar envelliment prematur dels aïllaments
+
+8. Assenyala quina de les següents opcions no s’utilitza per al tractament de males olors:
+
+a. Embornal sifònic
+b. Ventilació de la xarxa
+c. Arqueta sifònica
+.d. Totes són certes
+
+9. Assenyala quin és l’ordre correcte dels elements de la instal·lació de sanejament:
+
+a. Punt de recollida, baixant, col·lector, derivació, arqueta
+b. Punt de recollida, baixant, derivació, arqueta, col·lector
+.c. Punt de recollida, derivació, baixant, col·lector, arqueta
+d. Punt de recollida, derivació, baixant, arqueta, col·lector
+
+10. Assenyala la resposta FALSA respecte al disseny de les xarxes de sanejament:
+
+a. El volum d’aigua residual fecal es mesura segons el consum d’aigua potable
+b. El dimensionat queda definit pel CTE DB HS 5
+c. Les aigües grises i negres es dissenyen segons el nombre d’aparells
+.d. Les aigües pluvials es dimensionen segons l’ús públic o privat
+
+11. Quina és certa respecte les classes de foc?
+
+a. Classe K: focs originats per metalls
+b. Classe A: focs sobre gasos
+.c. Classe K: focs originats per grasses i olis de cuina
+d. Classe D: focs originats per grasses i olis de cuina
+
+12. Quin tipus d’edifici no està dins de l’àmbit d’aplicació del CTE DB SI?
+
+a. Edificis d’ús docent
+b. Edificis d’ús residencial
+.c. Edificis d’ús industrial
+d. Edificis d’ús comercial
+
+13. Quin dels següents agents extintors és el més adequat per a focs elèctrics?
+
+a. Aigua
+b. Pols
+.c. CO₂
+d. Escuma física
+
+14. Què pot provocar i és característic d’un excés de pressió en la distribució d’aigua?
+
+a. Insatisfacció dels usuaris
+b. Excés de consum
+c. Fatiga dels materials
+.d. Totes les anteriors són certes
+
+15. Marca l’afirmació correcta respecte l’article 23 del REBT:
+
+a. El REBT no permet mesures addicionals de seguretat
+b. L’OCA no pot exigir nivells superiors als mínims del REBT
+.c. El dissenyador pot justificar tècniques de seguretat equivalents informant l’OCA
+d. Les ITC generals tenen prioritat sobre les específiques
+
+16. Indica la resposta correcta respecte als sistemes de sanejament:
+
+a. La funció dels sistemes separatius és evitar olors
+b. Els sistemes separatius augmenten el consum d’aigua potable
+c. Els sistemes separatius obliguen a equips de depuració més grans
+.d. Un sistema separatiu facilita el reaprofitament d’aigües residuals
+
+17. En general, les aigües susceptibles de ser reaprofitades dins del mateix edifici són:
+
+a. Les de procés
+.b. Les pluvials i grises
+c. Únicament les pluvials
+d. Totes les anteriors
+
+18. Marca la resposta correcta respecte a la ventilació de sanejament:
+
+a. El sifó és un dispositiu mecànic
+b. La ventilació terciària és pròpia dels edificis d’oficines
+.c. La ventilació primària evita el sifonatge per aspiració
+d. La ventilació secundària es connecta sempre sota els sifons
+
+19. Respecte als elements de la xarxa de sanejament, marca la incorrecta:
+
+a. Les buneres recullen l’aigua superficial
+b. Separadors de greixos i hidrocarburs funcionen pel mateix principi físic
+.c. Els pous de bombeig són idonis en sistemes per gravetat
+d. El col·lector uneix els baixants
+
+20. Respecte a la legionel·la, indica la resposta incorrecta:
+
+.a. És un virus que es reprodueix en medi aquàtic
+b. És perillosa quan l’aigua es dispersa en aerosols
+c. Es reprodueix a temperatures entorn dels 30 °C
+d. És una malaltia de declaració obligatòria
