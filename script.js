@@ -25,9 +25,33 @@ function parseQuestions(text) {
       answers.push(l.substring(2).trim())
     })
 
-    questions.push({ question, answers, correct })
-    results.push(null)
+    // shuffle answers within the question (Fisher–Yates) and update correct index
+    if (answers.length > 1) {
+      const idxs = answers.map((_, k) => k)
+      for (let a = idxs.length - 1; a > 0; a--) {
+        const b = Math.floor(Math.random() * (a + 1))
+        const tmp = idxs[a]
+        idxs[a] = idxs[b]
+        idxs[b] = tmp
+      }
+      const shuffledAnswers = idxs.map((i) => answers[i])
+      const newCorrect = idxs.indexOf(correct)
+      questions.push({ question, answers: shuffledAnswers, correct: newCorrect })
+    } else {
+      questions.push({ question, answers, correct })
+    }
   }
+
+  // shuffle questions order (Fisher–Yates)
+  for (let i = questions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    const tmp = questions[i]
+    questions[i] = questions[j]
+    questions[j] = tmp
+  }
+
+  // reset results to match shuffled questions
+  results = Array(questions.length).fill(null)
 
   buildIndex()
   showQuestion()
