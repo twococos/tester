@@ -137,3 +137,493 @@ d. El col·lector uneix els baixants
 b. És perillosa quan l’aigua es dispersa en aerosols
 c. Es reprodueix a temperatures entorn dels 30 °C
 d. És una malaltia de declaració obligatòria
+
+21. Respecte als materials utilitzats en la distribució d’aigua, indica la resposta correcta:
+
+a. L’acer inoxidable només s’utilitza en execució encastada
+b. El coure no presenta risc de corrosió en contacte amb altres metalls
+c. El polietilè no es pot utilitzar en instal·lacions soterrades
+.d. El polipropilè admet diversos sistemes d’unió i s’utilitza en mitja pressió
+
+22. Un habitatge unifamiliar amb consums elevats d’ACS s’hauria de dissenyar preferentment com:
+
+a. Sistema instantani sense retorn
+.b. Sistema de generació individual amb retorn d’ACS
+c. Sistema centralitzat obligatori
+d. Sistema sense acumulació ni retorn
+
+23. Respecte a les escomeses i instal·lacions d’enllaç de BT, marca l’afirmació incorrecta:
+
+a. La responsabilitat del client comença als borns de la CGP
+.b. L’ICP només té la funció de limitar la potència
+c. La DI connecta l’ICP amb la ubicació de comptadors
+d. L’escomesa inclou la línia general d’alimentació
+
+24. Respecte a la ITC-BT-08 sobre esquemes de connexió a terra, marca la correcta:
+
+a. L’esquema TT és propi de xarxes privades
+.b. L’esquema TT és el propi de xarxes públiques de distribució
+c. Les instal·lacions TN no necessiten diferencial
+d. Les instal·lacions IT són sempre selectives
+
+25. Respecte a l’execució i posada en servei de les instal·lacions de BT, indica la correcta:
+
+a. Qualsevol persona amb certificat individual pot executar instal·lacions
+b. L’empresa subministradora només requereix la memòria tècnica
+.c. L’OCA pot autoritzar un subministrament provisional
+d. Totes les instal·lacions requereixen inspecció inicial
+
+26. Respecte a les instal·ladores autoritzades segons la ITC-BT-03, és cert que:
+
+a. El certificat individual capacita per si sol
+.b. Cal estar vinculat a una empresa instal·ladora autoritzada
+c. Només poden fer instal·lacions industrials
+d. Només treballen sota supervisió de l’OCA
+
+27. Respecte als dipòsits d’acumulació d’aigua calenta sanitària, indica la correcta:
+
+a. No permeten cabals punta elevats
+b. No admeten recirculació
+c. No influeixen en la potència necessària de la central tèrmica
+.d. Permeten reduir la potència de l’equip productor
+
+28. Respecte als equips d’escalfament d’ACS, indica la resposta correcta:
+
+a. Sempre han d’escalfar fins a 50 °C
+b. La bomba de calor té el mateix rendiment en calefacció i ACS
+c. L’efecte Joule és el sistema més eficient
+.d. Cap de les anteriors és certa
+
+29. Respecte als sistemes de producció instantània d’ACS, indica la resposta incorrecta:
+
+a. El cabal punta depèn de la potència de l’equip
+b. Requereixen sensor de flux
+.c. Augmenten el risc de proliferació de legionel·la
+d. En calderes mixtes el bescanviador sol anar integrat
+
+30. Respecte als sistemes de producció d’ACS per acumulació, indica la correcta:
+
+a. La potència es dimensiona pel cabal punta
+b. El bescanviador sempre és extern
+.c. El control es fa amb sonda de temperatura al dipòsit
+d. No admeten sistemes de retorn
+
+31. Respecte als punts de captació d’aigua, és cert que:
+
+a. Es poden fer lliurement a llera pública
+b. La quantitat d’aigua captada és il·limitada
+c. La continuïtat del subministrament sempre està garantida
+.a. Poden fer-se a llera pública amb autorització administrativa
+
+32. Quin aspecte és idèntic tant en una captació pròpia com en una captació de xarxa de companyia?
+
+a. Inversió econòmica inicial
+b. Manteniment de la infraestructura
+.c. Pagament del cànon de sanejament
+d. Manteniment de la qualitat de l’aigua
+
+33. Marca l’afirmació incorrecta sobre els sistemes d’acumulació d’aigua:
+
+a. Poden reduir la dimensió dels equips de tractament
+.b. La descalcificació elimina tots els minerals de l’aigua
+c. El material del dipòsit depèn del sistema de muntatge
+d. Permeten reduir el cabal necessari a l’escomesa
+
+34. Respecte a la legionel·la, indica la resposta correcta:
+
+.a. Condiciona el disseny de totes les instal·lacions d’ACS
+b. És un bacteri present en aliments
+c. Només es troba en aigües fredes
+d. No està subjecta a normativa específica
+
+35. La desinfecció periòdica contra la legionel·la:
+
+a. Només es pot fer per xoc tèrmic
+b. Només es pot fer per xoc químic
+c. Només es pot fer mitjançant filtratge
+.d. Cap de les anteriors és certa
+
+36. Respecte als elements d’una instal·lació de sanejament, assenyala la FALSA:
+
+a. Buneres i reixes són punts de recollida
+b. Les derivacions uneixen punts de recollida amb baixants
+.c. Els col·lectors faciliten els canvis de direcció
+d. Les arquetes poden ser enregistrables o no
+
+37. Respecte als sistemes d’evacuació, assenyala la FALSA:
+
+a. No es permeten fluxos enfrontats en sistemes per gravetat
+b. Les unions han de tenir un angle mínim de 45°
+c. Els sistemes d’elevació requereixen pous de bombeig
+.d. Els sistemes de tub ple són per aigües pluvials i industrials
+
+38. Respecte als sifons, assenyala quin no existeix:
+
+a. Sifó de lavabo
+b. Embornal sifònic
+.c. Col·lector sifònic
+d. Arqueta sifònica
+
+39. Respecte al dimensionat de la xarxa de sanejament, és cert que:
+
+a. Es dimensiona només pel diàmetre
+b. Les aigües pluvials no tenen en compte la superfície
+.c. Es tenen en compte diàmetre i pendent
+d. El pendent és sempre constant
+
+40. El disseny del sanejament d’una instal·lació es fa segons, assenyala la FALSA:
+
+.a. El volum d’aigua residual i la quantitat d’impureses
+b. Aigües pluvials segons la pluviometria
+c. Aigües fecals segons el consum d’aigua potable
+d. Aigües industrials segons el procés
+
+41. Assenyala el mecanisme d’extinció d’incendis erroni:
+
+a. Eliminació del combustible
+b. Sufocació
+.c. Refredament del comburent
+d. Inhibició de la reacció en cadena
+
+42. Respecte als ruixadors automàtics, assenyala la FALSA:
+
+a. Actuen per temperatura
+.b. Combinen detecció automàtica i extinció manual
+c. Poden ser d’ampolla termosensible
+d. Poden ser penjats o de paret
+
+43. Respecte a la utilització del sistema de columna seca, assenyala la FALSA:
+
+a. És obligatòria en determinats establiments industrials
+b. Pot ser exigida en edificis residencials alts
+.c. És obligatòria en edificis hospitalaris a partir de 24 m
+d. Només pot ser utilitzada pels bombers
+
+44. Assenyala la FALSA respecte a les BIE:
+
+.a. S’han d’utilitzar sempre amb con de protecció
+b. La columna seca només la poden utilitzar els bombers
+c. Hi ha d’haver un hidrant a menys de 100 m
+d. El punt més alt d’un extintor ha d’estar a menys d’1,70 m
+
+45. Respecte als detectors termovelocimètrics, assenyala la FALSA:
+
+a. Reaccionen per temperatura o augment ràpid
+b. Són adequats per focs de desenvolupament ràpid
+.c. Només detecten fum
+d. S’utilitzen en ambients específics
+
+46. Respecte als sistemes de protecció activa contra incendis, és cert que:
+
+a. Només inclouen sistemes d’extinció
+b. Formen part del disseny arquitectònic
+.c. Detecten, senyalitzen, extingeixen i inclouen enllumenat d’emergència
+d. Només funcionen amb intervenció humana
+
+47. Respecte a la protecció contra incendis en establiments industrials, és correcte que:
+
+a. El nivell de protecció depèn només de l’activitat
+b. El risc intrínsec depèn de les mesures instal·lades
+c. Les mesures actives només depenen de la càrrega de foc
+.d. Els requisits d’aigua estan regulats per normativa específica
+
+48. Quin dels següents elements pot detectar, donar alarma i extingir un incendi?
+
+a. BIE
+.b. Ruixador automàtic
+c. Columna seca
+d. Centraleta
+
+49. Respecte al CTE DB SI, assenyala l’afirmació correcta:
+
+a. Només s’aplica a edificis de pública concurrència
+b. El projectista no pot definir mesures actives
+.c. Algunes zones industrials poden quedar regulades pel CTE DB SI
+d. Les mesures depenen exclusivament del nombre d’ocupants
+
+50. Les mesures de protecció activa contra incendis són:
+
+a. Exclusivament les d’extinció
+b. Les pròpies del disseny de l’edifici
+.c. Les que detecten, senyalitzen, donen alarma i extingeixen
+d. Només les que requereixen intervenció humana
+
+51. Respecte als sistemes d’evacuació d’aigües, indica la resposta correcta:
+
+a. Els sistemes de tub ple s’utilitzen per a aigües fecals
+b. Els sistemes per gravetat requereixen consum energètic
+.c. Els sistemes d’elevació mecànica impliquen obra civil
+d. No es poden combinar diferents sistemes
+
+52. Respecte a l’ordre dels elements de sanejament des de la recollida de les aigües, és correcte:
+
+a. Punt de recollida, baixant, col·lector, derivació, arqueta
+b. Punt de recollida, baixant, derivació, col·lector, arqueta
+.c. Punt de recollida, derivació, baixant, col·lector, arqueta
+d. Punt de recollida, derivació, col·lector, baixant, arqueta
+
+53. Assenyala la resposta incorrecta respecte als sifonatges:
+
+a. Poden ser per aspiració
+b. Poden ser per compressió
+c. Poden produir pèrdua del tancament hidràulic
+.d. Només es produeixen en sistemes amb pendent excessiu
+
+54. Respecte a la ventilació de la xarxa de sanejament, és cert que:
+
+a. Serveix exclusivament per eliminar olors
+.b. Evita desifonaments dels aparells sanitaris
+c. Substitueix els sifons
+d. Només és necessària en edificis alts
+
+55. Respecte als separadors de greixos i hidrocarburs, indica la correcta:
+
+a. Funcionen per diferència de densitat i filtratge
+.b. Funcionen pel mateix principi físic
+c. Només s’utilitzen en indústries
+d. Requereixen energia elèctrica
+
+56. Respecte als pous de bombeig, assenyala la FALSA:
+
+a. S’utilitzen quan no es pot evacuar per gravetat
+.b. Són la solució idònia en sistemes per gravetat
+c. Requereixen manteniment
+d. Formen part dels sistemes d’elevació
+
+57. Respecte als col·lectors de sanejament, indica la correcta:
+
+a. Són trams verticals
+.b. Uneixen els baixants de l’edifici
+c. Només existeixen en xarxes pluvials
+d. No admeten arquetes
+
+58. Respecte a la ventilació secundària, és cert que:
+
+a. Sempre es connecta sota els sifons
+b. Substitueix la ventilació primària
+.c. És un tub paral·lel al baixant
+d. Només s’utilitza en habitatges unifamiliars
+
+59. En relació amb la legionel·la, indica la resposta correcta:
+
+a. Només afecta instal·lacions industrials
+b. No influeix en el disseny de les instal·lacions
+.c. Pot proliferar en instal·lacions d’ACS
+d. Només es transmet per ingestió
+
+60. Respecte a la normativa sobre legionel·la, és cert que:
+
+a. No és d’aplicació en habitatges
+b. Només afecta instal·lacions públiques
+.c. És d’obligat compliment en determinades instal·lacions
+d. Només regula la temperatura de l’aigua
+
+61. Respecte als sistemes de producció d’ACS, assenyala la correcta:
+
+a. Els sistemes instantanis no poden tenir retorn
+.b. Els sistemes d’acumulació permeten cobrir cabals punta
+c. Els sistemes centralitzats no admeten retorn
+d. Els sistemes individuals són menys eficients
+
+62. Respecte als sistemes de retorn d’ACS, indica la FALSA:
+
+a. Redueixen el temps d’espera
+b. Augmenten el confort
+c. Incrementen el consum energètic
+.d. Són obligatoris en tots els edificis
+
+63. Respecte a la producció d’ACS amb bomba de calor, assenyala la correcta:
+
+a. Té rendiment constant independent de la temperatura
+.b. Presenta rendiments superiors als sistemes elèctrics
+c. No pot treballar amb acumulació
+d. No influeix en el disseny de la instal·lació
+
+64. Respecte a la producció d’ACS amb energia solar tèrmica, és cert que:
+
+a. Substitueix totalment altres sistemes
+b. Només funciona a l’estiu
+.c. Necessita un sistema auxiliar
+d. No està regulada normativament
+
+65. Respecte a les instal·lacions elèctriques en locals amb risc d’incendi, indica la correcta:
+
+a. No tenen regulació específica
+b. Només afecten a locals industrials
+c. Només es regulen per normativa autonòmica
+.d. Estan regulades pel REBT
+
+66. Respecte als locals amb risc d’incendi o explosió, assenyala la FALSA:
+
+a. La classificació depèn del procés
+.b. Només poden existir en indústries
+c. Requereixen mesures específiques
+d. El material elèctric ha de ser adequat
+
+67. Respecte a la ITC-BT-29, indica la correcta:
+
+a. Regula instal·lacions en locals humits
+b. Regula locals d’ús mèdic
+.c. Regula locals amb risc d’incendi o explosió
+d. Regula instal·lacions d’enllumenat d’emergència
+
+68. Respecte als graus de protecció IP, assenyala la correcta:
+
+a. Només indiquen protecció contra l’aigua
+b. Només indiquen protecció contra cossos sòlids
+.c. Indiquen protecció contra sòlids i líquids
+d. Indiquen resistència al foc
+
+69. Respecte a l’enllumenat d’emergència, assenyala la correcta:
+
+a. Només és obligatori en edificis públics
+.b. Forma part de la protecció activa contra incendis
+c. No està regulat pel CTE
+d. Només funciona amb generador
+
+70. Respecte a l’enllumenat d’emergència, indica la FALSA:
+
+a. Ha d’entrar en funcionament automàticament
+b. Ha de garantir visibilitat suficient
+.c. Només és necessari en edificis de pública concurrència
+d. Ha d’estar senyalitzat
+
+71. Respecte a les instal·lacions d’enllumenat, assenyala la correcta:
+
+a. Només existeixen en edificis públics
+b. No estan regulades pel REBT
+.c. Formen part de la instal·lació elèctrica de baixa tensió
+d. Només inclouen lluminàries decoratives
+
+72. Respecte a l’enllumenat normal i d’emergència, indica la correcta:
+
+a. Sempre comparteixen el mateix circuit
+b. L’enllumenat normal funciona amb bateries
+.c. L’enllumenat d’emergència ha de funcionar quan falla el normal
+d. Només és obligatori en locals industrials
+
+73. Respecte a l’enllumenat de seguretat, assenyala la FALSA:
+
+a. Inclou enllumenat d’evacuació
+b. Inclou enllumenat d’ambient o antipànic
+c. Inclou enllumenat de zones d’alt risc
+.d. Inclou enllumenat decoratiu
+
+74. Respecte a la senyalització de seguretat, indica la correcta:
+
+a. No està regulada
+b. Només s’utilitza en indústries
+.c. Forma part de la protecció activa contra incendis
+d. Substitueix l’enllumenat d’emergència
+
+75. Respecte als sistemes de senyalització, assenyala la correcta:
+
+a. Només poden ser lluminosos
+.b. Poden ser lluminosos o fotoluminescents
+c. Només s’utilitzen en evacuació
+d. No requereixen manteniment
+
+76. Respecte a la senyalització fotoluminescent, indica la correcta:
+
+a. No necessita il·luminació prèvia
+b. Només funciona amb llum artificial
+.c. Acumula energia lumínica i la reemet
+d. No està regulada normativament
+
+77. Respecte al manteniment de la senyalització, és cert que:
+
+a. No és necessari
+b. Només es fa en edificis públics
+.c. Ha de garantir la seva visibilitat en tot moment
+d. Només depèn del fabricant
+
+78. Respecte als sistemes de protecció passiva contra incendis, assenyala la correcta:
+
+a. Detecten i extingeixen l’incendi
+.b. Formen part del disseny constructiu
+c. Necessiten energia per funcionar
+d. Només són obligatòries en indústries
+
+79. Respecte a la compartimentació contra incendis, indica la correcta:
+
+a. No influeix en la propagació del foc
+b. Només s’aplica en hospitals
+.c. Limita la propagació del foc i el fum
+d. Substitueix la protecció activa
+
+80. Respecte a la resistència al foc dels elements constructius, assenyala la FALSA:
+
+a. Es mesura en minuts
+b. Depèn del material
+c. Depèn del sistema constructiu
+.d. És independent de la normativa
+
+81. Respecte als sectors d’incendi, indica la correcta:
+
+a. No tenen límit de superfície
+b. Només s’apliquen en edificis industrials
+.c. Permeten limitar la propagació de l’incendi
+d. Substitueixen les vies d’evacuació
+
+82. Respecte a les portes tallafoc, assenyala la correcta:
+
+a. Sempre han d’estar obertes
+b. No requereixen manteniment
+.c. Formen part de la compartimentació contra incendis
+d. Només s’utilitzen en escales
+
+83. Respecte a les vies d’evacuació, indica la correcta:
+
+a. No estan regulades pel CTE
+b. Només s’apliquen en edificis públics
+.c. Han de permetre una evacuació segura
+d. Només depenen del nombre de plantes
+
+84. Respecte a la longitud dels recorreguts d’evacuació, assenyala la correcta:
+
+a. No té límits
+.b. Està limitada per normativa
+c. Només s’aplica en habitatges
+d. No influeix en la seguretat
+
+85. Respecte a les escales protegides, indica la correcta:
+
+a. No requereixen ventilació
+b. Poden comunicar lliurement amb qualsevol espai
+.c. Formen part de les vies d’evacuació protegides
+d. No estan regulades
+
+86. Respecte a les escales especialment protegides, assenyala la correcta:
+
+a. Són iguals que les protegides
+.b. Requereixen vestíbul previ
+c. No necessiten ventilació
+d. Només s’utilitzen en indústries
+
+87. Respecte a les sortides d’evacuació, indica la correcta:
+
+a. No estan regulades
+b. Només són necessàries en edificis públics
+.c. Han d’estar senyalitzades
+d. Només depenen de l’ús de l’edifici
+
+88. Respecte a la senyalització d’evacuació, assenyala la correcta:
+
+a. Substitueix l’enllumenat d’emergència
+b. No requereix manteniment
+.c. Ha de ser visible fins i tot en cas de fum
+d. Només és necessària en indústries
+
+89. Respecte a la il·luminació de les vies d’evacuació, indica la correcta:
+
+a. Només funciona amb llum natural
+b. No està regulada
+.c. Forma part de l’enllumenat d’emergència
+d. Només s’aplica en edificis públics
+
+90. Respecte a la protecció passiva contra incendis, assenyala la FALSA:
+
+a. Limita la propagació del foc
+b. Forma part del disseny constructiu
+.c. Requereix intervenció humana
+d. Complementa la protecció activa
