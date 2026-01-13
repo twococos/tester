@@ -1,17 +1,3 @@
-1. Respecte als sistemes de protecció activa contra incendis d'un edifici, quina de les següents afirmacions és incorrecta?
-
-a. Qualsevol edifici tindrà com a mínim extintors manuals i enllumenat d'emergència
-b. Les boques d'incendi d'un edifici dins l'àmbit d'aplicació del CTE DB SI seran de 25 mm
-.c. La distribució dels detectors de fums és independent de l'alçada a la qual estan col·locats
-d. La columna seca està prevista per ser utilitzada pels bombers
-
-2. Respecte als sistemes de detecció i alarma automàtica contra incendis, podem afirmar que:
-
-a. Els detectors iònics són ideals per als aparcaments subterranis
-b. Els detectors de temperatura poden ser de tipus puntual o de barrera
-.c. Els polsadors manuals d'alarma no es poden considerar part del sistema de detecció automàtica
-d. Cap de les anteriors és certa
-
 3. Respecte a la descalcificació d’un tractament d’aigua, indica la resposta incorrecta:
 
 a. L’aigua conté productes minerals dissolts que poden precipitar amb temperatura elevada
@@ -32,20 +18,6 @@ a. És més dens que l’aire i es pot liquar per compressió
 b. En estat pur és incolor, inodor i no inflamable
 c. A altes temperatures es pot descompondre en substàncies tòxiques
 .d. La seva rigidesa dielèctrica disminueix amb la pressió
-
-6. Pel que fa als avantatges dels transformadors secs, assenyala la FALSA:
-
-a. No generen productes tòxics
-b. Són resistents al foc
-c. Requereixen menys manteniment
-.d. Són més barats que els transformadors d’oli
-
-7. Pel que fa a l’eficiència dels transformadors, assenyala la FALSA:
-
-a. La màxima eficiència s’aconsegueix entre el 50% i el 70% de càrrega
-.b. Sobredimensionar-lo comporta una eficiència reduïda en plena càrrega
-c. Infradimensionar-lo redueix l’eficiència en plena càrrega
-d. Pot provocar envelliment prematur dels aïllaments
 
 8. Assenyala quina de les següents opcions no s’utilitza per al tractament de males olors:
 
@@ -145,12 +117,6 @@ b. El coure no presenta risc de corrosió en contacte amb altres metalls
 c. El polietilè no es pot utilitzar en instal·lacions soterrades
 .d. El polipropilè admet diversos sistemes d’unió i s’utilitza en mitja pressió
 
-22. Un habitatge unifamiliar amb consums elevats d’ACS s’hauria de dissenyar preferentment com:
-
-a. Sistema instantani sense retorn
-.b. Sistema de generació individual amb retorn d’ACS
-c. Sistema centralitzat obligatori
-d. Sistema sense acumulació ni retorn
 
 23. Respecte a les escomeses i instal·lacions d’enllaç de BT, marca l’afirmació incorrecta:
 
@@ -187,26 +153,7 @@ b. No admeten recirculació
 c. No influeixen en la potència necessària de la central tèrmica
 .d. Permeten reduir la potència de l’equip productor
 
-28. Respecte als equips d’escalfament d’ACS, indica la resposta correcta:
 
-a. Sempre han d’escalfar fins a 50 °C
-b. La bomba de calor té el mateix rendiment en calefacció i ACS
-c. L’efecte Joule és el sistema més eficient
-.d. Cap de les anteriors és certa
-
-29. Respecte als sistemes de producció instantània d’ACS, indica la resposta incorrecta:
-
-a. El cabal punta depèn de la potència de l’equip
-b. Requereixen sensor de flux
-.c. Augmenten el risc de proliferació de legionel·la
-d. En calderes mixtes el bescanviador sol anar integrat
-
-30. Respecte als sistemes de producció d’ACS per acumulació, indica la correcta:
-
-a. La potència es dimensiona pel cabal punta
-b. El bescanviador sempre és extern
-.c. El control es fa amb sonda de temperatura al dipòsit
-d. No admeten sistemes de retorn
 
 31. Respecte als punts de captació d’aigua, és cert que:
 
@@ -229,12 +176,7 @@ a. Poden reduir la dimensió dels equips de tractament
 c. El material del dipòsit depèn del sistema de muntatge
 d. Permeten reduir el cabal necessari a l’escomesa
 
-34. Respecte a la legionel·la, indica la resposta correcta:
 
-.a. Condiciona el disseny de totes les instal·lacions d’ACS
-b. És un bacteri present en aliments
-c. Només es troba en aigües fredes
-d. No està subjecta a normativa específica
 
 35. La desinfecció periòdica contra la legionel·la:
 
@@ -278,13 +220,6 @@ b. Aigües pluvials segons la pluviometria
 c. Aigües fecals segons el consum d’aigua potable
 d. Aigües industrials segons el procés
 
-41. Assenyala el mecanisme d’extinció d’incendis erroni:
-
-a. Eliminació del combustible
-b. Sufocació
-.c. Refredament del comburent
-d. Inhibició de la reacció en cadena
-
 42. Respecte als ruixadors automàtics, assenyala la FALSA:
 
 a. Actuen per temperatura
@@ -313,20 +248,6 @@ b. Són adequats per focs de desenvolupament ràpid
 .c. Només detecten fum
 d. S’utilitzen en ambients específics
 
-46. Respecte als sistemes de protecció activa contra incendis, és cert que:
-
-a. Només inclouen sistemes d’extinció
-b. Formen part del disseny arquitectònic
-.c. Detecten, senyalitzen, extingeixen i inclouen enllumenat d’emergència
-d. Només funcionen amb intervenció humana
-
-47. Respecte a la protecció contra incendis en establiments industrials, és correcte que:
-
-a. El nivell de protecció depèn només de l’activitat
-b. El risc intrínsec depèn de les mesures instal·lades
-c. Les mesures actives només depenen de la càrrega de foc
-.d. Els requisits d’aigua estan regulats per normativa específica
-
 48. Quin dels següents elements pot detectar, donar alarma i extingir un incendi?
 
 a. BIE
@@ -340,13 +261,6 @@ a. Només s’aplica a edificis de pública concurrència
 b. El projectista no pot definir mesures actives
 .c. Algunes zones industrials poden quedar regulades pel CTE DB SI
 d. Les mesures depenen exclusivament del nombre d’ocupants
-
-50. Les mesures de protecció activa contra incendis són:
-
-a. Exclusivament les d’extinció
-b. Les pròpies del disseny de l’edifici
-.c. Les que detecten, senyalitzen, donen alarma i extingeixen
-d. Només les que requereixen intervenció humana
 
 51. Respecte als sistemes d’evacuació d’aigües, indica la resposta correcta:
 
@@ -404,48 +318,6 @@ b. Substitueix la ventilació primària
 .c. És un tub paral·lel al baixant
 d. Només s’utilitza en habitatges unifamiliars
 
-59. En relació amb la legionel·la, indica la resposta correcta:
-
-a. Només afecta instal·lacions industrials
-b. No influeix en el disseny de les instal·lacions
-.c. Pot proliferar en instal·lacions d’ACS
-d. Només es transmet per ingestió
-
-60. Respecte a la normativa sobre legionel·la, és cert que:
-
-a. No és d’aplicació en habitatges
-b. Només afecta instal·lacions públiques
-.c. És d’obligat compliment en determinades instal·lacions
-d. Només regula la temperatura de l’aigua
-
-61. Respecte als sistemes de producció d’ACS, assenyala la correcta:
-
-a. Els sistemes instantanis no poden tenir retorn
-.b. Els sistemes d’acumulació permeten cobrir cabals punta
-c. Els sistemes centralitzats no admeten retorn
-d. Els sistemes individuals són menys eficients
-
-62. Respecte als sistemes de retorn d’ACS, indica la FALSA:
-
-a. Redueixen el temps d’espera
-b. Augmenten el confort
-c. Incrementen el consum energètic
-.d. Són obligatoris en tots els edificis
-
-63. Respecte a la producció d’ACS amb bomba de calor, assenyala la correcta:
-
-a. Té rendiment constant independent de la temperatura
-.b. Presenta rendiments superiors als sistemes elèctrics
-c. No pot treballar amb acumulació
-d. No influeix en el disseny de la instal·lació
-
-64. Respecte a la producció d’ACS amb energia solar tèrmica, és cert que:
-
-a. Substitueix totalment altres sistemes
-b. Només funciona a l’estiu
-.c. Necessita un sistema auxiliar
-d. No està regulada normativament
-
 65. Respecte a les instal·lacions elèctriques en locals amb risc d’incendi, indica la correcta:
 
 a. No tenen regulació específica
@@ -473,13 +345,6 @@ a. Només indiquen protecció contra l’aigua
 b. Només indiquen protecció contra cossos sòlids
 .c. Indiquen protecció contra sòlids i líquids
 d. Indiquen resistència al foc
-
-69. Respecte a l’enllumenat d’emergència, assenyala la correcta:
-
-a. Només és obligatori en edificis públics
-.b. Forma part de la protecció activa contra incendis
-c. No està regulat pel CTE
-d. Només funciona amb generador
 
 70. Respecte a l’enllumenat d’emergència, indica la FALSA:
 
@@ -509,13 +374,6 @@ b. Inclou enllumenat d’ambient o antipànic
 c. Inclou enllumenat de zones d’alt risc
 .d. Inclou enllumenat decoratiu
 
-74. Respecte a la senyalització de seguretat, indica la correcta:
-
-a. No està regulada
-b. Només s’utilitza en indústries
-.c. Forma part de la protecció activa contra incendis
-d. Substitueix l’enllumenat d’emergència
-
 75. Respecte als sistemes de senyalització, assenyala la correcta:
 
 a. Només poden ser lluminosos
@@ -537,20 +395,6 @@ b. Només es fa en edificis públics
 .c. Ha de garantir la seva visibilitat en tot moment
 d. Només depèn del fabricant
 
-78. Respecte als sistemes de protecció passiva contra incendis, assenyala la correcta:
-
-a. Detecten i extingeixen l’incendi
-.b. Formen part del disseny constructiu
-c. Necessiten energia per funcionar
-d. Només són obligatòries en indústries
-
-79. Respecte a la compartimentació contra incendis, indica la correcta:
-
-a. No influeix en la propagació del foc
-b. Només s’aplica en hospitals
-.c. Limita la propagació del foc i el fum
-d. Substitueix la protecció activa
-
 80. Respecte a la resistència al foc dels elements constructius, assenyala la FALSA:
 
 a. Es mesura en minuts
@@ -564,13 +408,6 @@ a. No tenen límit de superfície
 b. Només s’apliquen en edificis industrials
 .c. Permeten limitar la propagació de l’incendi
 d. Substitueixen les vies d’evacuació
-
-82. Respecte a les portes tallafoc, assenyala la correcta:
-
-a. Sempre han d’estar obertes
-b. No requereixen manteniment
-.c. Formen part de la compartimentació contra incendis
-d. Només s’utilitzen en escales
 
 83. Respecte a les vies d’evacuació, indica la correcta:
 
@@ -620,10 +457,3 @@ a. Només funciona amb llum natural
 b. No està regulada
 .c. Forma part de l’enllumenat d’emergència
 d. Només s’aplica en edificis públics
-
-90. Respecte a la protecció passiva contra incendis, assenyala la FALSA:
-
-a. Limita la propagació del foc
-b. Forma part del disseny constructiu
-.c. Requereix intervenció humana
-d. Complementa la protecció activa
