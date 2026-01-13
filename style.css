@@ -134,12 +134,12 @@ main {
   }
 
   h1 {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     margin-bottom: 12px;
   }
 
   #stats {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     margin-bottom: 12px;
   }
 
@@ -153,18 +153,18 @@ main {
   }
 
   #index {
-    width: 72px;
+    width: 62px;
   }
 
   #index button {
-    padding: 10px 0;
+    padding: 5px 0;
     font-size: 0.8rem;
     border-radius: 8px;
   }
 
   .nav button {
-    padding: 10px 15px;
-    font-size: 0.9rem;
+    padding: 5px 8px;
+    font-size: 0.8rem;
     border-radius: 10px;
   }
 
