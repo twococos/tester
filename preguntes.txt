@@ -1,459 +1,497 @@
-3. Respecte a la descalcificació d’un tractament d’aigua, indica la resposta incorrecta:
+1. Quin indicador ens dona informació sobre l'eficiència energètica de l'economia d'un país?
+.a. La intensitat energètica
+b. La funció de Hubbert
+c. El diagrama de Sankey
+d. La relació entre el consum d'energia elèctrica i la disponibilitat de recursos energètics
+
+2. En quin cas es redueix el "heat rate" d'una planta de cicle combinat??
+a. Quan disminueix el flux de vapor que circula per la caldera
+b. Si augmenta el poder calorífic inferior del combustible
+c. Si incrementem el consum de combustible per obtenir la mateixa energia
+.d. Quan millora el rendiment total de la planta
+
+3. Quina és la funció de l'economitzador en una central tèrmica que utilitza carbó?
+a. Garantir la combustió total del combustible
+.b. Preescalfar l'aigua abans que entri a la caldera
+c. Refredar els gasos d'escapament abans de la seva expulsió
+d. Minimitzar la generació d'òxids de nitrogen durant la combustió
+
+4. Quina afirmació és certa en relació amb la corba d'Hubbert?
+.a. Prediu l'existència d'un pic en la producció mundial de petroli
+b. Representa l'evolució del preu del petroli al llarg dels anys
+c. Prediu el consum d'energia elèctrica al planeta en funció de l'evolució de la població
+d. Es tracta d'un indicador de la intensitat energètica de cada país
+5. 
+Quin dels següents elements d'una central tèrmica de carbó (cicle de Rankine) permet incrementar la temperatura del vapor per sobre la temperatura de saturació abans d'entrar a la turbina de vapor?
+a. L'economitzador
+.b. El sobreescalfador
+c. El calderí
+d. El condensador
+
+
+6. Quina afirmació és correcta en relació amb les turbines eòliques?
+a. La fórmula de Betz permet calcular l'energia elèctrica màxima que es pot generar anualment en un emplaçament
+b. El límit de Betz indica la mínima velocitat del vent que permet moure els àleps de l'aerogenerador per generar electricitat
+.c. El límit de Betz indica la màxima potència teòrica que es pot extreure del vent
+d. L'eficiència efectiva d'un aerogenerador de potència superior a 5 MW és de l'ordre del 80%
+
+
+7. Quina de les següents afirmacions no es pot aplicar a una central nuclear amb tecnologia PWR?
+a. L'enriquiment isotòpic del combustible fresc acostuma a ser entre un 4 % i un 5%
+b. Poden utilitzar combustible MOX (Urani i plutoni reciclat)
+.c. El vapor es genera al nucli del reactor
+d. Disposen d'un pressionador al circuit primari per evitar que l'aigua entri en ebullició
+
+
+8. A què fa referència el grau de cremat (burn-up) del combustible d'una central nuclear?
+a. La proporció de U-235 disponible al combustible nuclear respecte la massa total d'urani
+b. L'enriquiment isotòpic del combustible nuclear fresc, abans d'introduir-lo al reactor nuclear
+c. La màxima potència elèctrica que pot generar el combustible nuclear
+.d. L'energia tèrmica generada per unitat de massa de combustible nuclear
+
+
+9. En un reactor nuclear amb tecnologia PWR quina és la funció de l'aigua que circula pel circuit primari?
+.a. Refrigerar el nucli i moderar els neutrons per tal d'afavorir la fissió nuclear
+b. Refrigerar el nucli i reduir les fissions del U-235
+c. S'evapora al generador de vapor per accionar la turbina de vapor
+d. Absorbir neutrons per tal de regular el factor de multiplicació
+
+
+10. Quin dels següents components és important en una central termosolar elèctrica de col·lectors cilindro-parabòlics?
+a. La torre central
+b. El sistema de seguiment del sol en dos eixos
+c. La turbines de gas d'alta eficiència
+.d. El tub receptor situat al focus
+
+11. Quina és la característica que destaca en les centrals hidroelèctriques de bombeig, en front de les centrals hidroelèctriques d'aigua fluent ?
+a. En general, les centrals de bombeig generen una potència elèctrica superior a la que generen les centrals d'aigua fluent
+b. Les centrals de bombeig permeten subministrar aigua per altres usos diferents a la generació elèctrica
+.c. Permeten regular la generació/demanda d'energia elèctrica
+d. Les turbines de les centrals de bombeig acostumen a ser de tipus Pelton
+
+
+12. Una central tèrmica consumeix 14 m3/h de gas natural. Quina serà la quantitat de CO2 emesa per hora?
+
+a. 224 m3/h
+.b. 14 m3/h
+c. 10 m3/h
+d. 5,1 m3/h
+
+
+13. Una central de cicle combinat, al sistema elèctric espanyol:
+a. és una central de base donada la poca facilitat per variar la potencia generada, així justifica el seu alt factor de càrrega
+.b. Acostumen a operar en hores punta de demanda elèctrica, ja que tenen facilitat de regulació
+c. Tenen un baix cost d'operació ja que el combustible utilitzat és gas natural a alta pressió
+d. Les respostes b. i c. són correctes
+
+
+14. Si augmenta la irradiància que rep un mòdul fotovoltaic, quina de les següents variables tindrà una variació poc significativa?
+
+.a. La tensió de circuit obert
+b. El corrent de curt circuit
+c. La potència elèctrica màxima generada
+d. Cap de les anteriors
+
+15. Si la velocitat del vent que mou les pales d'un aerogenerador augmenta un factor 2, com afectarà a la potència elèctrica generada?
+
+a. La potència elèctrica augmentarà un factor 2
+b. La potència elèctrica augmentarà un factor 4
+c. La potència elèctrica augmentarà un factor 8
+.d. únicament podem saber que passarà amb la potència elèctrica si coneixem la corba de potència
+
+16. Quina afirmació és certa en relació amb la corba d'Hubbert?
+a. Representa l'evolució del preu del petroli al llarg dels anys
+.b. Prediu l'existència d'un pic en la producció mundial de petroli
+c. Prediu el consum d'energia elèctrica al planeta en funció de l'evolució de la població
+d. Es tracta d'un indicador de la intensitat energètica de cada país
+
+17. A l'actualitat, quina és la proporció aproximada del consum de combustibles fòssils en forma d'energia primària al món?
+a. Entre un 50 % i un 60 %
+b. Entre un 60 % i un 70 %
+.c. Entre un 80 % i un 90 %
+d. Més del 90 %
+
+18. Quin dels següents elements d'una central tèrmica de carbó (cicle de Rankine) permet incrementar la temperatura del vapor per sobre la temperatura de saturació abans d'entrar a la turbina de vapor?
+
+a. L'economitzador
+.b. El sobreescalfador
+c. El calderí
+d. El condensador
+
+19. De les següents accions, quina permet un increment en el rendiment global d'una central termoelèctrica que funciona amb un cicle de Rankine?
+a. L'augment de la pressió del vapor a la sortida de la turbina
+b. L'augment de la temperatura de condensació del vapor al condensador
+.c. L'augment de la pressió de l'aigua que entra a la caldera
+d. La disminució de la temperatura del vapor a l'entrada de la turbina
+
+20. Una de les principals diferències entre les centrals de cicle combinat (CC) i una central tèrmica de carbó convencional (CTC), consisteix en:
+a. La potència elèctrica generada
+b. L'emissió específica de diòxid de carboni (CO2/kWhe) és superior a les CC
+.c. El rendiment global de la central
+d. No hi ha diferències significatives, únicament canvia el tipus de cicle termodinàmic
+
+21. El "Heat Rate" (Relació calorífica) d'una central de cicle combinat ens permet:
+.a. Calcular el cabal de combustible consumit per generar una determinada potència elèctrica, coneixent el PCI (LHV) del combustible.
+b. Saber les hores de funcionament de la central tèrmica a potència nominal
+c. Conèixer la temperatura màxima dels fums de combustió a l'entrada de la turbina de gas
+d. Calcular la potència elèctrica màxima que pot generar la central quan coneixem el PCI del combustible
+
+
+22. Quina de les següents afirmacions no es pot aplicar a una central nuclear amb tecnologia PWR?
+.a. El vapor es genera al nucli del reactor
+b. L'enriquiment isotòpic del combustible fresc acostuma a ser entre un 4 % i un 5%
+c. Poden utilitzar combustible MOX (Urani i plutoni reciclat)
+d. Disposen d'un pressionador al circuit primari per evitar que l'aigua entri en ebullició
 
-a. L’aigua conté productes minerals dissolts que poden precipitar amb temperatura elevada
-b. En aigües dures és necessari instal·lar un descalcificador en sistemes d’aigua calenta
-.c. Les resines d’intercanvi iònic provoquen la precipitació de CaCl i MgCl dins del dipòsit
-d. Cal una sortida a desaigua per l’aigua de rebuig
 
-4. Els problemes de sifonatge en les instal·lacions de sanejament venen donats per:
+23. A què fa referència el grau de cremat (burn-up) del combustible d'una central nuclear?
+a. La proporció de U-235 disponible al combustible nuclear respecte la massa total d'urani
+b. L'enriquiment isotòpic del combustible nuclear fresc, abans d'introduir-lo al reactor nuclear
+c. La màxima potència elèctrica que pot generar el combustible nuclear
+.d. L'energia tèrmica generada per unitat de massa de combustible nuclear
 
-a. Sifonatge per aspiració per formació de pistó hidràulic
-.b. Sifonatge per compressió generant depressió darrere del pistó
-c. Absència total de ventilació terciària
-d. Excés de pendent a les derivacions
+24. En un reactor nuclear amb tecnologia PWR quina és la funció de l'aigua que circula pel circuit primari?
+a. Refrigerar el nucli i frenar les fissions del U-235
+.b. Refrigerar el nucli i moderar els neutrons per tal d'afavorir la fissió nuclear
+c. S'evapora al generador de vapor per accionar la turbina de vapor
+d. Atenuar la radiació generada per les fissions nuclears al nucli del reactor i protegir el personal
 
-5. Pel que fa a l’SF6, assenyala la FALSA:
+25. Per quin motiu s'ha d'enriquir isotòpicament l'urani que es consumirà en un reactor nuclear?
+a. Per tal que no tingui impureses d'altres elements que puguin dificultar la fissió nuclear
+b. Per afegir isòtops que permetin controlar la fissió nuclear i així millorar la seguretat d'operació
+.c. Per incrementar la proporció de U-235 en front del U-238 que hi ha en l'urani natural
+d. Per afegir isòtops radioactius que afavoreixin la generació de potència tèrmica
 
-a. És més dens que l’aire i es pot liquar per compressió
-b. En estat pur és incolor, inodor i no inflamable
-c. A altes temperatures es pot descompondre en substàncies tòxiques
-.d. La seva rigidesa dielèctrica disminueix amb la pressió
+26. El quocient entre l'energia elèctrica generada per una central elèctrica en un període donat, i la màxima energia elèctrica que podria arribar a generar en aquest mateix període es denomina:
+.a. Factor de càrrega
+b. Relació calorífica
+c. Rendiment elèctric equivalent
+d. Rendiment global
 
-8. Assenyala quina de les següents opcions no s’utilitza per al tractament de males olors:
+27. En relació amb els aerogeneradors eòlics, que indica la fórmula de Betz?
+a. La velocitat òptima del vent amb la que un aerogenerador pot generar potència elèctrica
+b. Les dimensions màximes de la longitud de les pales amb què es pot construir un aerogenerador
+.c. La potència màxima que es pot extreure del vent amb un aerogenerador, per una velocitat del vent i dimensions de l'aerogenerador donades
+d. La potència elèctrica nominal produïda per l'aerogenerador quan la velocitat del vent és la òptima de l'emplaçament
 
-a. Embornal sifònic
-b. Ventilació de la xarxa
-c. Arqueta sifònica
-.d. Totes són certes
 
-9. Assenyala quin és l’ordre correcte dels elements de la instal·lació de sanejament:
+28. En quines condicions es genera la potència de pic (nominal) d'un mòdul fotovoltaic?
+a. Sempre que la irradiància sigui la màxima per a una latitud donada, independentment de la temperatura del mòdul
+.b. En general, quan la irradiància és de 1000 W/m2, la temperatura és de 25 ºC, i l'índex AM=1,5
+c. Quan l'angle que forma el mòdul amb el pla horitzontal és igual a la latitud de l'emplaçament
+d. Quan la radiació solar incideix amb un angle normal a la superfície del mòdul
 
-a. Punt de recollida, baixant, col·lector, derivació, arqueta
-b. Punt de recollida, baixant, derivació, arqueta, col·lector
-.c. Punt de recollida, derivació, baixant, col·lector, arqueta
-d. Punt de recollida, derivació, baixant, arqueta, col·lector
 
-10. Assenyala la resposta FALSA respecte al disseny de les xarxes de sanejament:
+29. En les centrals solars tèrmiques amb col·lectors cilindro-parabòlics, quina de les següents afirmacions NO és correcta?
+a. Poden utilitzar sals foses com a fluid de transferència de calor
+b. Utilitzen un sistema de seguiment del sol en un eix.
+c. Poden emmagatzemar energia tèrmica durant el dia per generar electricitat en períodes de baixa o nul·la irradiació solar.
+.d. Acostumen a utilitzar un motor Stirling per generar electricitat
 
-a. El volum d’aigua residual fecal es mesura segons el consum d’aigua potable
-b. El dimensionat queda definit pel CTE DB HS 5
-c. Les aigües grises i negres es dissenyen segons el nombre d’aparells
-.d. Les aigües pluvials es dimensionen segons l’ús públic o privat
 
-11. Quina és certa respecte les classes de foc?
+30. Quina de les següents centrals hidroelèctriques poden permetre un major estalvi del recurs hídric?
+a. Centrals d'aigua fluent (Run-of-the-river)
+.b. Centrals de bombeig pur
+c. Centrals de regulació
+d. Cap de les anteriors.
 
-a. Classe K: focs originats per metalls
-b. Classe A: focs sobre gasos
-.c. Classe K: focs originats per grasses i olis de cuina
-d. Classe D: focs originats per grasses i olis de cuina
+31. Quina de les següents formes d'energia NO es pot considerar com energia primària?
 
-12. Quin tipus d’edifici no està dins de l’àmbit d’aplicació del CTE DB SI?
+a. Gas natural
+b. Petroli
+.c. Hidrogen
+d. Urani
 
-a. Edificis d’ús docent
-b. Edificis d’ús residencial
-.c. Edificis d’ús industrial
-d. Edificis d’ús comercial
 
-13. Quin dels següents agents extintors és el més adequat per a focs elèctrics?
+32. A l'actualitat, quina és la proporció aproximada del consum de combustibles fòssils en forma d'energia primària al mon?
 
-a. Aigua
-b. Pols
-.c. CO₂
-d. Escuma física
+a. Entre un 40 % i un 50 %
+.b. Entre un 75 % i un 90 %
+c. Entre un 25 % i un 35 %
+d. Entre un 55 % i un 70 %
 
-14. Què pot provocar i és característic d’un excés de pressió en la distribució d’aigua?
+33. En una central tèrmica de carbó, quina és l'emissió específica de CO2 (massa de CO2 per unitat d'energia elèctrica generada)?
 
-a. Insatisfacció dels usuaris
-b. Excés de consum
-c. Fatiga dels materials
-.d. Totes les anteriors són certes
+.a. Entre 0,8 kg/kWh i 1 kg/kWh
+b. Entre 0,7 m3/kWh i 0,9 m3/kWh
+c. Entre 0,85 kg/kJ i 1,2 kg/kJ
+d. Entre 80 g/kWh i 10 g/kWh
 
-15. Marca l’afirmació correcta respecte l’article 23 del REBT:
+34. Per quin motiu el rendiment global d'una central de cicle combinat és superior al d'una central tèrmica de carbó?
 
-a. El REBT no permet mesures addicionals de seguretat
-b. L’OCA no pot exigir nivells superiors als mínims del REBT
-.c. El dissenyador pot justificar tècniques de seguretat equivalents informant l’OCA
-d. Les ITC generals tenen prioritat sobre les específiques
+a. La combustió de gas natural és més eficient que la de carbó
+b. La temperatura del cicle de gas és superior a la del cicle de carbó
+.c. El cicle de vapor aprofita l'energia residual del cicle de gas, reduint les pèrdues a l'ambient
+d. El consum d'aire per unitat de combustible consumit és superior al cicle de gas
 
-16. Indica la resposta correcta respecte als sistemes de sanejament:
+35. Quina és la funció de la caldera recuperadora (heat recovery boiler) en una central de cicle combinat?
 
-a. La funció dels sistemes separatius és evitar olors
-b. Els sistemes separatius augmenten el consum d’aigua potable
-c. Els sistemes separatius obliguen a equips de depuració més grans
-.d. Un sistema separatiu facilita el reaprofitament d’aigües residuals
+a. Extreure l'energia tèrmica del vapor abans del condensador
+.b. Fer bescanvi de calor entre els gasos de combustió que surten de la turbina gas i el vapor que entra a la turbina de vapor
+c. Pre-escalfar l'aire abans d'entrar al compressor de la turbina de gas
+d. Augmentar la temperatura del gas natural abans d'entrar a la cambra de combustió per incrementar el rendiment.
 
-17. En general, les aigües susceptibles de ser reaprofitades dins del mateix edifici són:
+36. En relació amb el combustible d'una central nuclear d'aigua a pressió PWR, quina de les següents afirmacions és certa?
 
-a. Les de procés
-.b. Les pluvials i grises
-c. Únicament les pluvials
-d. Totes les anteriors
+a. L'enriquiment aproximat de l'urani és de l'ordre del 40 % per tal d'evitar la presència d'impureses d'altres isòtops de l'urani
+b. El material físsil es troba dins de tubs metàl·lics per tal d'evitar que l'urani reaccioni amb l'aigua del refrigerant i formi òxid d'urani
+.c. El material físsil està en forma de pastilles cilíndriques d'UO2 que es troben dins d'uns tubs anomenats beines que eviten el contacte directe amb el refrigerant
+d. S'ha de mantenir la temperatura del combustible nuclear per sobre de 500 ºC per millorar el procés de fissió
 
-18. Marca la resposta correcta respecte a la ventilació de sanejament:
 
-a. El sifó és un dispositiu mecànic
-b. La ventilació terciària és pròpia dels edificis d’oficines
-.c. La ventilació primària evita el sifonatge per aspiració
-d. La ventilació secundària es connecta sempre sota els sifons
+37. En una central nuclear, quan parlem de "Fuel Burn-up" (en català: cremat de combustible nuclear), ens referim a?
 
-19. Respecte als elements de la xarxa de sanejament, marca la incorrecta:
+a. La potència tèrmica que ha generat el nucli del reactor en un any
+b. La quantitat de productes de fissió que hi ha al combustible nuclear per MWh elèctric generat
+.c. L'energia tèrmica generada pel combustible nuclear expressada en unitats d'energia per unitat de massa d'urani
+d. L'estat de degradació de les beines dels elements de combustible nuclear un cop s'extreuen del nucli
 
-a. Les buneres recullen l’aigua superficial
-b. Separadors de greixos i hidrocarburs funcionen pel mateix principi físic
-.c. Els pous de bombeig són idonis en sistemes per gravetat
-d. El col·lector uneix els baixants
 
-20. Respecte a la legionel·la, indica la resposta incorrecta:
+38. Quin component d'una central nuclear PWR té la funció de moderador?
 
-.a. És un virus que es reprodueix en medi aquàtic
-b. És perillosa quan l’aigua es dispersa en aerosols
-c. Es reprodueix a temperatures entorn dels 30 °C
-d. És una malaltia de declaració obligatòria
+a. La bomba del circuit primari que permet regular la potència tèrmica extreta del nucli.
+.b. L'aigua del circuit primari del nucli.
+c. Les barres de control que permeten reduir la potència de fissió
+d. També es pot anomenar pressionador, i s'encarrega de reduir la pressió de l'aigua del circuit primari
 
-21. Respecte als materials utilitzats en la distribució d’aigua, indica la resposta correcta:
 
-a. L’acer inoxidable només s’utilitza en execució encastada
-b. El coure no presenta risc de corrosió en contacte amb altres metalls
-c. El polietilè no es pot utilitzar en instal·lacions soterrades
-.d. El polipropilè admet diversos sistemes d’unió i s’utilitza en mitja pressió
+39. Què indica el factor de càrrega (load factor) d'una instal·lació de producció d'energia elèctrica?
 
+a. L'energia tèrmica útil aprofitada per unitat de potència instal·lada
+b. La màxima quantitat de combustible que pot consumir en un any
+.c. La relació entre l'energia elèctrica produïda en un període i l'energia que podria arribar a produir.
+d. La capacitat que té la instal·lació per acumular combustible i poder funcionar de forma independent.
 
-23. Respecte a les escomeses i instal·lacions d’enllaç de BT, marca l’afirmació incorrecta:
 
-a. La responsabilitat del client comença als borns de la CGP
-.b. L’ICP només té la funció de limitar la potència
-c. La DI connecta l’ICP amb la ubicació de comptadors
-d. L’escomesa inclou la línia general d’alimentació
+40. En un mòdul fotovoltaic, què ens indica el corrent de curtcircuit, ISC (Short circuit current)?
 
-24. Respecte a la ITC-BT-08 sobre esquemes de connexió a terra, marca la correcta:
+a. El corrent elèctric mínim generat pel mòdul quan la irradiància és de 1000 W/m2
+.b. El corrent elèctric màxim que pot generar el mòdul
+c. El corrent elèctric generat quan la potència elèctrica del mòdul és màxima
+d. El corrent elèctric generat quan la tensió generada és igual a la de circuit obert.
 
-a. L’esquema TT és propi de xarxes privades
-.b. L’esquema TT és el propi de xarxes públiques de distribució
-c. Les instal·lacions TN no necessiten diferencial
-d. Les instal·lacions IT són sempre selectives
+41. En un mòdul fotovoltaic, com afecta la temperatura del mòdul a la potència elèctrica generada?
 
-25. Respecte a l’execució i posada en servei de les instal·lacions de BT, indica la correcta:
+a. La temperatura no afecta la potència elèctrica generada
+b. Depenent del tipus de silici (policristal·lí, amorf, monocristal·lí), la potència elèctrica augmentarà o disminuirà amb l'increment de temperatura
+c. La potència elèctrica no varia, però el corrent elèctric generat augmenta doncs s'aprofita l'energia addicional aportada
+.d. En general, la potència elèctrica generada disminueix amb l'increment de temperatura
 
-a. Qualsevol persona amb certificat individual pot executar instal·lacions
-b. L’empresa subministradora només requereix la memòria tècnica
-.c. L’OCA pot autoritzar un subministrament provisional
-d. Totes les instal·lacions requereixen inspecció inicial
+42. Com podem estimar la potència nominal d'un aerogenerador a simple vista?
 
-26. Respecte a les instal·ladores autoritzades segons la ITC-BT-03, és cert que:
+a. Per l'altura a la que es troba la góndola (nacelle)
+.b. Per les dimensions de les pales
+c. Per la velocitat de rotació de les pales
+d. Per la ubicació de l'aerogenerador
 
-a. El certificat individual capacita per si sol
-.b. Cal estar vinculat a una empresa instal·ladora autoritzada
-c. Només poden fer instal·lacions industrials
-d. Només treballen sota supervisió de l’OCA
 
-27. Respecte als dipòsits d’acumulació d’aigua calenta sanitària, indica la correcta:
+43. La fórmula de Betz ens permet calcular la potència màxima que es pot extreure del vent amb un aerogenerador. Quina de les següents variables NO es troba en aquest fórmula?
 
-a. No permeten cabals punta elevats
-b. No admeten recirculació
-c. No influeixen en la potència necessària de la central tèrmica
-.d. Permeten reduir la potència de l’equip productor
+a. La densitat de l'aire
+b. L'àrea escombrada per les pales de l'aerogenerador
+c. La velocitat del vent
+.d. La temperatura de l'aire
 
 
+44. En relació amb les centrals hidroelèctriques, quina afirmació NO és correcta?
 
-31. Respecte als punts de captació d’aigua, és cert que:
+a. Les centrals hidroelèctriques de bombeig permeten regular la producció entre hores de màxima i mínima demanda elèctrica
+b. Les turbines Pelton s'utilitzen per grans salts d'aigua i petits cabals, però no poden ser reversibles
+c. El rendiment elèctric és molt elevat
+.d. Les centrals hidroelèctriques d'aigua fluent (run-of-the river) acostumen a actuar com a centrals reversibles per estalviar aigua
 
-a. Es poden fer lliurement a llera pública
-b. La quantitat d’aigua captada és il·limitada
-c. La continuïtat del subministrament sempre està garantida
-.a. Poden fer-se a llera pública amb autorització administrativa
 
-32. Quin aspecte és idèntic tant en una captació pròpia com en una captació de xarxa de companyia?
+45. Respecte les centrals solars termoelèctriques amb captadors cilíndrics parabòlics, quina afirmació és correcta?
 
-a. Inversió econòmica inicial
-b. Manteniment de la infraestructura
-.c. Pagament del cànon de sanejament
-d. Manteniment de la qualitat de l’aigua
+.a. Poden utilitzar sals foses com a fluid de transferència de calor (heat transfer fluid)
+b. Es tracta dels sistemes solars de rendiment global més elevat, que acostuma a arribar a valors del 35%-40%
+c. Per generar electricitat sovint utilitzen un motor Stirling que li dóna més versatilitat
+d. Una de les dificultats consisteix en que necessiten un sistema de seguiment del sol de dos eixos (2-axis sun tracking)
 
-33. Marca l’afirmació incorrecta sobre els sistemes d’acumulació d’aigua:
+46. What is the advantage of pump-storage hydroelectric power plants respect run-of-the-river hydroelectric power plants?
+a. They allow to turbine large flows of water for long periods of time
+.b. They help regulate surplus electrical energy from the grid in periods of low demand.
+c. They always work at rated power
+d. They require small jumps and can work with any type of turbine, making them very versatile.
 
-a. Poden reduir la dimensió dels equips de tractament
-.b. La descalcificació elimina tots els minerals de l’aigua
-c. El material del dipòsit depèn del sistema de muntatge
-d. Permeten reduir el cabal necessari a l’escomesa
+47. What is the approximate value of the solar constant?
+.a. 1361 W/m2
+b. 1361 kW/m2day
+c. 1361 kW/m2
+d. 1361 kJ/m2day
 
+48. What is the role of the moderator in a nuclear power plant?
+.a. Reduce fission neutron energy to facilitate fission chain
+b. Reduce steam pressure in the primary circuit
+c. Maintain the degree of enrichment of uranium above a given value
+d. Reduce the thermal power generated and avoid damage to the reactor core
 
+49. What is the purpose of economizer in a coal fired power plant?
+a. Avoid the formation of nitrogen oxides during combustion
+b. Ensure complete coal combustion
+.c. Heat the water before it enters the boiler
+d. Reduce the temperature of the gases exiting the stack
 
-35. La desinfecció periòdica contra la legionel·la:
+50. What of the following situations lowers the heat rate of a combined cycle power plant?
+a. If the steam flow that circulates through the boiler is reduced
+b. If increases the LHV of the fuel used
+c. If the fuel consumption increases to generate the same electric energy
+.d. If the global efficiency is increased
 
-a. Només es pot fer per xoc tèrmic
-b. Només es pot fer per xoc químic
-c. Només es pot fer mitjançant filtratge
-.d. Cap de les anteriors és certa
+51. The parameter fuel burn-up is referred to?
+a. The residual thermal power of a fuel assembly when is extracted from the nuclear reactor
+b. The minimum uranium enrichment needed to use uranium in a nuclear power plant to generate electricity economically viable
+.c. The thermal energy generated by the nuclear fuel expressed in energy units over the uranium mass
+d. The degradation of fuel assembly rods when are extracted from the reactor vessel
 
-36. Respecte als elements d’una instal·lació de sanejament, assenyala la FALSA:
 
-a. Buneres i reixes són punts de recollida
-b. Les derivacions uneixen punts de recollida amb baixants
-.c. Els col·lectors faciliten els canvis de direcció
-d. Les arquetes poden ser enregistrables o no
+52. What does the power coefficient represents in a wind turbine?
+a. The maximum power to be generated by a wind turbine
+b. The relation between the mechanical power in the wind turbine rotor and the electric power generated
+.c. The relation between the power generated and the kinetic power carried out by the wind when interacts with the wind turbine
+d. The relation between wind speed and linear velocity of the blades end
 
-37. Respecte als sistemes d’evacuació, assenyala la FALSA:
+
+53. Which of the following thermal fluids will be more suitable to be used in parabolic trough collectors to work at high temperatures (> 650 oC)
+a. Synthetic oil
+b. Water
+.c. Molten salts
+d. All the fluids indicated are suitable
+
 
-a. No es permeten fluxos enfrontats en sistemes per gravetat
-b. Les unions han de tenir un angle mínim de 45°
-c. Els sistemes d’elevació requereixen pous de bombeig
-.d. Els sistemes de tub ple són per aigües pluvials i industrials
-
-38. Respecte als sifons, assenyala quin no existeix:
-
-a. Sifó de lavabo
-b. Embornal sifònic
-.c. Col·lector sifònic
-d. Arqueta sifònica
-
-39. Respecte al dimensionat de la xarxa de sanejament, és cert que:
-
-a. Es dimensiona només pel diàmetre
-b. Les aigües pluvials no tenen en compte la superfície
-.c. Es tenen en compte diàmetre i pendent
-d. El pendent és sempre constant
-
-40. El disseny del sanejament d’una instal·lació es fa segons, assenyala la FALSA:
-
-.a. El volum d’aigua residual i la quantitat d’impureses
-b. Aigües pluvials segons la pluviometria
-c. Aigües fecals segons el consum d’aigua potable
-d. Aigües industrials segons el procés
-
-42. Respecte als ruixadors automàtics, assenyala la FALSA:
-
-a. Actuen per temperatura
-.b. Combinen detecció automàtica i extinció manual
-c. Poden ser d’ampolla termosensible
-d. Poden ser penjats o de paret
-
-43. Respecte a la utilització del sistema de columna seca, assenyala la FALSA:
-
-a. És obligatòria en determinats establiments industrials
-b. Pot ser exigida en edificis residencials alts
-.c. És obligatòria en edificis hospitalaris a partir de 24 m
-d. Només pot ser utilitzada pels bombers
-
-44. Assenyala la FALSA respecte a les BIE:
-
-.a. S’han d’utilitzar sempre amb con de protecció
-b. La columna seca només la poden utilitzar els bombers
-c. Hi ha d’haver un hidrant a menys de 100 m
-d. El punt més alt d’un extintor ha d’estar a menys d’1,70 m
-
-45. Respecte als detectors termovelocimètrics, assenyala la FALSA:
-
-a. Reaccionen per temperatura o augment ràpid
-b. Són adequats per focs de desenvolupament ràpid
-.c. Només detecten fum
-d. S’utilitzen en ambients específics
-
-48. Quin dels següents elements pot detectar, donar alarma i extingir un incendi?
-
-a. BIE
-.b. Ruixador automàtic
-c. Columna seca
-d. Centraleta
-
-49. Respecte al CTE DB SI, assenyala l’afirmació correcta:
-
-a. Només s’aplica a edificis de pública concurrència
-b. El projectista no pot definir mesures actives
-.c. Algunes zones industrials poden quedar regulades pel CTE DB SI
-d. Les mesures depenen exclusivament del nombre d’ocupants
-
-51. Respecte als sistemes d’evacuació d’aigües, indica la resposta correcta:
-
-a. Els sistemes de tub ple s’utilitzen per a aigües fecals
-b. Els sistemes per gravetat requereixen consum energètic
-.c. Els sistemes d’elevació mecànica impliquen obra civil
-d. No es poden combinar diferents sistemes
-
-52. Respecte a l’ordre dels elements de sanejament des de la recollida de les aigües, és correcte:
-
-a. Punt de recollida, baixant, col·lector, derivació, arqueta
-b. Punt de recollida, baixant, derivació, col·lector, arqueta
-.c. Punt de recollida, derivació, baixant, col·lector, arqueta
-d. Punt de recollida, derivació, col·lector, baixant, arqueta
-
-53. Assenyala la resposta incorrecta respecte als sifonatges:
-
-a. Poden ser per aspiració
-b. Poden ser per compressió
-c. Poden produir pèrdua del tancament hidràulic
-.d. Només es produeixen en sistemes amb pendent excessiu
-
-54. Respecte a la ventilació de la xarxa de sanejament, és cert que:
-
-a. Serveix exclusivament per eliminar olors
-.b. Evita desifonaments dels aparells sanitaris
-c. Substitueix els sifons
-d. Només és necessària en edificis alts
-
-55. Respecte als separadors de greixos i hidrocarburs, indica la correcta:
-
-a. Funcionen per diferència de densitat i filtratge
-.b. Funcionen pel mateix principi físic
-c. Només s’utilitzen en indústries
-d. Requereixen energia elèctrica
-
-56. Respecte als pous de bombeig, assenyala la FALSA:
-
-a. S’utilitzen quan no es pot evacuar per gravetat
-.b. Són la solució idònia en sistemes per gravetat
-c. Requereixen manteniment
-d. Formen part dels sistemes d’elevació
-
-57. Respecte als col·lectors de sanejament, indica la correcta:
-
-a. Són trams verticals
-.b. Uneixen els baixants de l’edifici
-c. Només existeixen en xarxes pluvials
-d. No admeten arquetes
-
-58. Respecte a la ventilació secundària, és cert que:
-
-a. Sempre es connecta sota els sifons
-b. Substitueix la ventilació primària
-.c. És un tub paral·lel al baixant
-d. Només s’utilitza en habitatges unifamiliars
-
-65. Respecte a les instal·lacions elèctriques en locals amb risc d’incendi, indica la correcta:
-
-a. No tenen regulació específica
-b. Només afecten a locals industrials
-c. Només es regulen per normativa autonòmica
-.d. Estan regulades pel REBT
-
-66. Respecte als locals amb risc d’incendi o explosió, assenyala la FALSA:
-
-a. La classificació depèn del procés
-.b. Només poden existir en indústries
-c. Requereixen mesures específiques
-d. El material elèctric ha de ser adequat
-
-67. Respecte a la ITC-BT-29, indica la correcta:
-
-a. Regula instal·lacions en locals humits
-b. Regula locals d’ús mèdic
-.c. Regula locals amb risc d’incendi o explosió
-d. Regula instal·lacions d’enllumenat d’emergència
-
-68. Respecte als graus de protecció IP, assenyala la correcta:
-
-a. Només indiquen protecció contra l’aigua
-b. Només indiquen protecció contra cossos sòlids
-.c. Indiquen protecció contra sòlids i líquids
-d. Indiquen resistència al foc
-
-70. Respecte a l’enllumenat d’emergència, indica la FALSA:
-
-a. Ha d’entrar en funcionament automàticament
-b. Ha de garantir visibilitat suficient
-.c. Només és necessari en edificis de pública concurrència
-d. Ha d’estar senyalitzat
-
-71. Respecte a les instal·lacions d’enllumenat, assenyala la correcta:
-
-a. Només existeixen en edificis públics
-b. No estan regulades pel REBT
-.c. Formen part de la instal·lació elèctrica de baixa tensió
-d. Només inclouen lluminàries decoratives
-
-72. Respecte a l’enllumenat normal i d’emergència, indica la correcta:
-
-a. Sempre comparteixen el mateix circuit
-b. L’enllumenat normal funciona amb bateries
-.c. L’enllumenat d’emergència ha de funcionar quan falla el normal
-d. Només és obligatori en locals industrials
-
-73. Respecte a l’enllumenat de seguretat, assenyala la FALSA:
-
-a. Inclou enllumenat d’evacuació
-b. Inclou enllumenat d’ambient o antipànic
-c. Inclou enllumenat de zones d’alt risc
-.d. Inclou enllumenat decoratiu
-
-75. Respecte als sistemes de senyalització, assenyala la correcta:
-
-a. Només poden ser lluminosos
-.b. Poden ser lluminosos o fotoluminescents
-c. Només s’utilitzen en evacuació
-d. No requereixen manteniment
-
-76. Respecte a la senyalització fotoluminescent, indica la correcta:
-
-a. No necessita il·luminació prèvia
-b. Només funciona amb llum artificial
-.c. Acumula energia lumínica i la reemet
-d. No està regulada normativament
-
-77. Respecte al manteniment de la senyalització, és cert que:
-
-a. No és necessari
-b. Només es fa en edificis públics
-.c. Ha de garantir la seva visibilitat en tot moment
-d. Només depèn del fabricant
-
-80. Respecte a la resistència al foc dels elements constructius, assenyala la FALSA:
-
-a. Es mesura en minuts
-b. Depèn del material
-c. Depèn del sistema constructiu
-.d. És independent de la normativa
-
-81. Respecte als sectors d’incendi, indica la correcta:
-
-a. No tenen límit de superfície
-b. Només s’apliquen en edificis industrials
-.c. Permeten limitar la propagació de l’incendi
-d. Substitueixen les vies d’evacuació
-
-83. Respecte a les vies d’evacuació, indica la correcta:
-
-a. No estan regulades pel CTE
-b. Només s’apliquen en edificis públics
-.c. Han de permetre una evacuació segura
-d. Només depenen del nombre de plantes
-
-84. Respecte a la longitud dels recorreguts d’evacuació, assenyala la correcta:
-
-a. No té límits
-.b. Està limitada per normativa
-c. Només s’aplica en habitatges
-d. No influeix en la seguretat
-
-85. Respecte a les escales protegides, indica la correcta:
-
-a. No requereixen ventilació
-b. Poden comunicar lliurement amb qualsevol espai
-.c. Formen part de les vies d’evacuació protegides
-d. No estan regulades
-
-86. Respecte a les escales especialment protegides, assenyala la correcta:
-
-a. Són iguals que les protegides
-.b. Requereixen vestíbul previ
-c. No necessiten ventilació
-d. Només s’utilitzen en indústries
-
-87. Respecte a les sortides d’evacuació, indica la correcta:
-
-a. No estan regulades
-b. Només són necessàries en edificis públics
-.c. Han d’estar senyalitzades
-d. Només depenen de l’ús de l’edifici
-
-88. Respecte a la senyalització d’evacuació, assenyala la correcta:
-
-a. Substitueix l’enllumenat d’emergència
-b. No requereix manteniment
-.c. Ha de ser visible fins i tot en cas de fum
-d. Només és necessària en indústries
-
-89. Respecte a la il·luminació de les vies d’evacuació, indica la correcta:
-
-a. Només funciona amb llum natural
-b. No està regulada
-.c. Forma part de l’enllumenat d’emergència
-d. Només s’aplica en edificis públics
+54. Related to the receiving tube of a parabolic trough collector, which phenomenon has the most influence on the thermal losses to the environment?
+a. The sun radiation reflected on the mirror surface
+.b. The convection from glass cover of receiving tube to the environment
+c. The convection from the interior tube to the environment
+d. The glass cover transmissivity
+
+
+55. Which of the next nuclear power plant technologies is the most commonly used?
+a. BWR
+b. GCR
+c. MSR
+.d. PWR
+
+
+56. What does the Betz limit indicate in a wind turbine?
+a. The maximum number of blades that a wind turbine could have
+b. The rotor maximum angular velocity
+.c. The maximum power that can be extracted from the wind
+d. The maximum length of wind turbine blades for a given location
+
+57. Under which of the following conditions will combined cycle power plants have a higher overall efficiency?
+a. If the combustion chamber consumes natural gas with a high LHV
+b. If is low the gas flow that circulates through the gas turbine
+.c. The air temperature that enters the compressor is low
+d. If the compression ratio of the compressor is higher than the turbine expansion ratio
+
+58. What is the approximated uranium proportion in the spent nuclear fuel when is extracted from the nuclear reactor?
+.a. 95%
+b. 72%
+c. 25%
+d. 4,5%
+
+59. Which of the following statements is false?
+a. The nuclear contribution in the world to generate electricity is of the order of 10%
+.b. Regarding the production of world electrical energy, wind energy contributes 30%
+c. The contribution of fossil fuels to global primary energy consumption represents approximately 86%
+d. Coal currently contributes approximately 28% of global primary energy consumption
+
+60. What statement is correct related to the photovoltaic modules
+a. The open circuit voltage is always less than the voltage at maximum power
+.b. Short-circuit current is greater than the current at maximum power
+c. The electrical power generated will be higher as the temperature of the module is higher.
+d. The point of maximum electrical power is reached when the generated voltage and current are equal to the open circuit voltage and short-circuit current, respectively.
+
+61. En els últims 5 anys, quina font d'energia ha tingut la major contribució a la producció d'energia elèctrica al món?
+a. Gas Natural
+b. Renovables
+c. Nuclear
+.d. Carbó
+
+62. Respecte la relació calorífica (heat rate) d'una central tèrmica, podem afirmar que?
+a. Serà més elevada com més elevat sigui el PCI (LHV) del combustible utilitzat a la central tèrmica
+b. Indica la potència elèctrica generada per unitat de massa de combustible consumida
+.c. Indica el consum de combustible en unitats energètiques per unitat d'energia elèctrica generada
+d. Serà més elevada com més gran sigui el rendiment de la central tèrmica
+
+63. Si es vol reduir l'emissió de CO2 per unitat d'energia elèctrica generada en una central tèrmica de carbó, quina de les següents accions recomanaries?
+a. Utilitzar un combustible amb un PCI elevat
+b. Realitzar la combustió amb el màxim excés d'aire possible
+.c. Treballar a pressions i temperatures del vapor elevades abans de l'expansió a la turbina
+d. Forçar que la temperatura de l'aigua líquida que surt del condensador sigui el més elevada possible.
+
+
+64. En una central de cicle combinat, per quin motiu és important mantenir el "pinch point" entre 5 ºC i 15 ºC?
+.a. Per optimitzar el bescanvi de calor entre els gasos de combustió de la turbina de gas i el generador de vapor
+b. Per evitar treballar amb vapor sobresaturat
+c. Per evitar que es produeixin danys als àleps de la turbina de gas
+d. Per reduir la temperatura dels gasos de combustió i evitar així la generació d'òxids de nitrogen
+
+65. En relació amb les centrals de cicle combinat, quina de les següents afirmacions NO és correcta?
+a. Normalment consumeixen gas natural, però també poden consumir gasoil
+.b. No poden treballar quan la temperatura de l'aire està per sota de 5 ºC per problemes de condensació i saturació del vapor de sortida
+c. Permet regular els desequilibris de demanda de potencia, així justifica el seu baix factor de càrrega.
+d. El rendiment global és superior al de les centrals tèrmiques de carbó
+
+66. Si el fabricant d'un mòdul fotovoltaic indica que el mòdul té una potència de 300 Wp, així significa:
+a. La potència que generarà el mòdul si està orientat en l'angle òptim per la latitud de l'emplaçament on està instal·lat
+.b. La potència que pot generar el mòdul quan la irradiància solar que rep és de 1000 W/m2 en unes determinades condicions de temperatura i AM.
+c. La potència que genera el mòdul quan la tensió de circuit obert és màxima.
+d. La potència màxima que genera el mòdul únicament si està connectat en paral·lel amb altres mòduls.
+
+67. Quina és la funció dels díodes de by-pass quan es connecten diversos mòduls fotovoltaics entre ells?
+.a. Eviten danys als mòduls quan estan connectats en sèrie, en cas de que un d'ells rebi menys radiació que la resta
+b. Permeten incrementar la potència generada als mòduls fotovoltaics al bloquejar el corrent invers
+c. Permeten commutar la connexió entre la bateria i el regulador
+d. S'encarreguen de passar a corrent altern el corrent continu generat als mòduls
+
+68. En relació amb les centrals solars termoelèctriques amb concentradors cilindre-parabòlics, quina afirmació NO és certa?.
+a. Poden utilitzar oli sintètic o sals foses com a fluid per transferir, al generador de vapor, l'energia tèrmica captada del sol
+b. Són de seguiment en un eix
+c. Poden generar energia elèctrica durant certs períodes nocturns
+.d. En general, el rendiment global és del mateix ordre de magnitud que les centrals tèrmiques de carbó convencionals donat que també disposen d'un cicle termodinàmic.
+
+69. Quin dels següents sistemes de concentració d'energia solar utilitza motors Stirling per generar electricitat?
+a. Concentradors cilíndric-parabòlics
+b. Sistemes de torre central
+.c. Disc parabòlic
+d. Concentradors lineals Fresnel
+
+70. En relació amb els aerogeneradors eòlics, que indica la fórmula de Betz?
+a. L'energia elèctrica anual màxima que pot produir un aerogenerador en un emplaçament
+b. La velocitat mitja del vent en un emplaçament, que s'utilitza per estimar la màxima potència generable.
+c. Les dimensions màximes de la longitud dels àleps amb que es pot construir un aerogenerador per una determinada velocitat del vent.
+.d. La potència màxima que es pot extreure del vent amb un aerogenerador, per una velocitat del vent i dimensions dels àleps de l'aerogenerador donades.
+
+71. Quin dels següents paràmetres NO es pot obtenir de la corba de potència d'un aerogenerador?
+a. La velocitat del vent d'arrencada (cut-in-speed) i la velocitat del vent de parada (cut-out speed).
+b. La potència elèctrica nominal que pot generar.
+.c. El coeficient de potència.
+d. Les velocitats del vent òptimes
+
+72. Quina és la funció del moderador d'un reactor nuclear amb tecnologia BWR?
+a. Reduir la temperatura del refrigerant del nucli del reactor
+b. Disminuir la potència tèrmica generada per les fissions al nucli del reactor
+.c. Reduir l'energia dels neutrons per tal de facilitar les reaccions de fissió amb l'U-235
+d. Disminuir la pressió del refrigerant del nucli del reactor per facilitar la formació de vapor
+
+73. Quanta energia es desprèn aproximadament de la fissió d'un nucli d'urani?
+a. 200 J
+.b. 200 MeV
+c. 200 eV
+d. 200 cal
+
+
+74. Quina afirmació és certa en relació amb l'enriquiment isotòpic de l'urani que s'utilitzarà en un reactor nuclear amb tecnologia PWR?
+.a. L'enriquiment isotòpic consisteix en augmentar la proporció de U-235 en front de l'U-238, superior a la que hi ha a l'urani natural
+b. L'enriquiment isotòpic consisteix en un procés físico-químic per obtenir urani amb una puresa superior al 99,999%
+c. L'enriquiment isotòpic és un procés fonamental per obtenir urani metàl·lic pur que s'utilitzarà com a combustible nuclear
+d. L'enriquiment isotòpic es realitza amb l'urani en forma de UO2, el que permet augmentar l'eficiència del procés
+
+
+75. Si es desitja aprofitar l'excés de producció d'energia elèctrica a la xarxa, quin tipus de central hidroelèctrica serà més útil?
+a. Una central hidroelèctrica d'aigua fluent
+.b. Una central hidroelèctrica de bombeig
+c. Una central hidroelèctrica de regulació
+d. Una central hidroelèctrica amb turbina Pelton

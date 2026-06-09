@@ -1,0 +1,154 @@
+
+1. Quina de les seg�ents formes d'energia NO es pot considerar com energia prim�ria?
+
+(a) Gas natural
+(b) Petroli
+(c) Hidrogen
+(d) Urani
+
+
+2. A l'actualitat, quina �s la proporci� aproximada del consum de combustibles f�ssils en forma d'energia prim�ria al mon?
+
+(a) Entre un 40 % i un 50 %
+(b) Entre un 75 % i un 90 %
+(c) Entre un 25 % i un 35 %
+(d) Entre un 55 % i un 70 %
+
+3. En una central t�rmica de carb�, quina �s l'emissi� espec�fica de CO2 (massa de CO2 per unitat d'energia el�ctrica generada)?
+
+(a) Entre 0,8 kg/kWh i 1 kg/kWh
+(b) Entre 0,7 m3/kWh i 0,9 m3/kWh
+(c) Entre 0,85 kg/kJ i 1,2 kg/kJ
+(d) Entre 80 g/kWh i 10 g/kWh
+
+4. Per quin motiu el rendiment global d'una central de cicle combinat �s superior al d'una central t�rmica de carb�?
+
+(a) La combusti� de gas natural �s m�s eficient que la de carb�
+(b) La temperatura del cicle de gas �s superior a la del cicle de carb�
+(c) El cicle de vapor aprofita l'energia residual del cicle de gas, reduint les p�rdues a l'ambient
+(d) El consum d'aire per unitat de combustible consumit �s superior al cicle de gas
+
+5. Quina �s la funci� de la caldera recuperadora (heat recovery boiler) en una central de cicle combinat?
+
+(a) Extreure l'energia t�rmica del vapor abans del condensador
+(b) Fer bescanvi de calor entre els gasos de combusti� que surten de la turbina gas i el vapor que entra a la turbina de vapor
+(c) Pre-escalfar l'aire abans d'entrar al compressor de la turbina de gas
+(d) Augmentar la temperatura del gas natural abans d'entrar a la cambra de combusti� per incrementar el rendiment.
+
+6. En relaci� amb el combustible d'una central nuclear d'aigua a pressi� PWR, quina de les seg�ents afirmacions �s certa?
+
+(a) L'enriquiment aproximat de l'urani �s de l'ordre del 40 % per tal d'evitar la pres�ncia d'impureses d'altres is�tops de l'urani
+(b) El material f�ssil es troba dins de tubs met�l�lics per tal d'evitar que l'urani reaccioni amb l'aigua del refrigerant i formi �xid d'urani
+(c) El material f�ssil est� en forma de pastilles cil�ndriques d'UO2 que es troben dins d'uns tubs anomenats beines que eviten el contacte directe amb el refrigerant
+(d) S'ha de mantenir la temperatura del combustible nuclear per sobre de 500 �C per millorar el proc�s de fissi�
+
+
+7. En una central nuclear, quan parlem de "Fuel Burn-up" (en catal�: cremat de combustible nuclear), ens referim a?
+
+(a) La pot�ncia t�rmica que ha generat el nucli del reactor en un any
+(b) La quantitat de productes de fissi� que hi ha al combustible nuclear per MWh el�ctric generat
+(c) L'energia t�rmica generada pel combustible nuclear expressada en unitats d'energia per unitat de massa d'urani
+(d) L'estat de degradaci� de les ve�nes dels elements de combustible nuclear un cop s'extreuen del nucli
+
+
+8. Quin component d'una central nuclear PWR t� la funci� de moderador?
+
+(a) La bomba del circuit primari que permet regular la pot�ncia t�rmica extreta del nucli.
+(b) L'aigua del circuit primari del nucli.
+(c) Les barres de control que permeten reduir la pot�ncia de fissi�
+(d) Tamb� es pot anomenar pressionador, i s'encarrega de reduir la pressi� de l'aigua del circuit primari
+
+
+9. Qu� indica el factor de c�rrega (load factor) d'una instal�laci� de producci� d'energia el�ctrica?
+
+(a) L'energia t�rmica �til aprofitada per unitat de pot�ncia instal�lada
+(b) La m�xima quantitat de combustible que pot consumir en un any
+(c) La relaci� entre l'energia el�ctrica produ�da en un per�ode i l'energia que podria arribar a produir.
+(d) La capacitat que t� la instal�laci� per acumular combustible i poder funcionar de forma independent.
+
+
+10. En un m�dul fotovoltaic, qu� ens indica el corrent de curtcircuit, ISC (Short circuit current)?
+
+(a) El corrent el�ctric m�nim generat pel m�dul quan la irradi�ncia �s de 1000 W/m2
+(b) El corrent el�ctric m�xim que pot generar el m�dul
+(c) El corrent el�ctric generat quan la pot�ncia el�ctrica del m�dul �s m�xima
+(d) El corrent el�ctric generat quan la tensi� generada �s igual a la de circuit obert.
+
+11. En un m�dul fotovoltaic, com afecta la temperatura del m�dul a la pot�ncia el�ctrica generada?
+
+(a) La temperatura no afecta la pot�ncia el�ctrica generada
+(b) Depenent del tipus de silici (policristal�l�, amorf, monocristal�l�), la pot�ncia el�ctrica augmentar� o disminuir� amb l'increment de temperatura
+(c) La pot�ncia el�ctrica no varia, per� el corrent el�ctric generat augmenta doncs s'aprofita l'energia addicional aportada
+(d) En general, la pot�ncia el�ctrica generada disminueix amb l'increment de temperatura
+
+12. Com podem estimar la pot�ncia nominal d'un aerogenerador a simple vista?
+
+(a) Per l'altura a la que es troba la g�ndola (nacelle)
+(b) Per les dimensions de les pales
+(c) Per la velocitat de rotaci� de les pales
+(d) Per la ubicaci� de l'aerogenerador
+
+
+13. La f�rmula de Betz ens permet calcular la pot�ncia m�xima que es pot extreure del vent amb un aerogenerador. Quina de les seg�ents variables NO es troba en aquest f�rmula?
+
+(a) La densitat de l'aire
+(b) L'�rea escombrada per les pales de l'aerogenerador
+(c) La velocitat del vent
+(d) La temperatura de l'aire
+
+
+14. En relaci� amb les centrals hidroel�ctriques, quina afirmaci� NO �s correcta?
+
+(a) Les centrals hidroel�ctriques de bombeig permeten regular la producci� entre hores de m�xima i m�nima demanda el�ctrica
+(b) Les turbines Pelton s'utilitzen per grans salts d'aigua i petits cabals, per� no poden ser reversibles
+(c) El rendiment el�ctric �s molt elevat
+(d) Les centrals hidroel�ctriques d'aigua fluent (run-of-the river) acostumen a actuar com a centrals reversibles per estalviar aigua
+
+
+15. Respecte les centrals solars termoel�ctriques amb captadors cil�ndrics parab�lics, quina afirmaci� �s correcta?
+
+(a) Poden utilitzar sals foses com a fluid de transfer�ncia de calor (heat transfer fluid)
+(b) Es tracta dels sistemes solars de rendiment global m�s elevat, que acostuma a arribar a valors del 35%-40%
+(c) Per generar electricitat sovint utilitzen un motor Stirling que li d�na m�s versatilitat
+(d) Una de les dificultats consisteix en que necessiten un sistema de seguiment del sol de dos eixos (2-axis sun tracking)
+
+
+
+
+
+
+
+RESPOSTES
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+c
+b
+a
+c
+b
+c
+c
+b
+c
+b
+d
+b
+d
+d
+a
+
+
+

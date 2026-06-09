@@ -1,0 +1,131 @@
+
+1. En els �ltims 5 anys, quina font d'energia ha tingut la major contribuci� a la producci� d'energia el�ctrica al m�n?
+(a) Gas Natural
+(b) Renovables
+(c) Nuclear
+(d) Carb�
+
+2. Respecte la relaci� calor�fica (heat rate) d'una central t�rmica, podem afirmar que?
+(a) Ser� m�s elevada com m�s elevat sigui el PCI (LHV) del combustible utilitzat a la central t�rmica
+(b) Indica la pot�ncia el�ctrica generada per unitat de massa de combustible consumida
+(c) Indica el consum de combustible en unitats energ�tiques per unitat d'energia el�ctrica generada
+(d) Ser� m�s elevada com m�s gran sigui el rendiment de la central t�rmica
+
+3. Si es vol reduir l'emissi� de CO2 per unitat d'energia el�ctrica generada en una central t�rmica de carb�, quina de les seg�ents accions recomanaries?
+(a) Utilitzar un combustible amb un PCI elevat
+(b) Realitzar la combusti� amb el m�xim exc�s d'aire possible
+(c) Treballar a pressions i temperatures del vapor elevades abans de l'expansi� a la turbina
+(d) For�ar que la temperatura de l'aigua l�quida que surt del condensador sigui el m�s elevada possible.
+
+
+4. En una central de cicle combinat, per quin motiu �s important mantenir el "pinch point" entre 5 �C i 15 �C?
+(a) Per optimitzar el bescanvi de calor entre els gasos de combusti� de la turbina de gas i el generador de vapor
+(b) Per evitar treballar amb vapor sobresaturat
+(c) Per evitar que es produeixin danys als �leps de la turbina de gas
+(d) Per reduir la temperatura dels gasos de combusti� i evitar aix� la generaci� d'�xids de nitrogen
+
+5. En relaci� amb les centrals de cicle combinat, quina de les seg�ents afirmacions NO �s correcta?
+(a) Normalment consumeixen gas natural, per� tamb� poden consumir gasoil
+(b) No poden treballar quan la temperatura de l'aire est� per sota de 5 �C per problemes de condensaci� i saturaci� del vapor de sortida
+(c) Permet regular els desequilibris de demanda de potencia, aix� justifica el seu baix factor de c�rrega.
+(d) El rendiment global �s superior al de les centrals t�rmiques de carb�
+
+6. Si el fabricant d'un m�dul fotovoltaic indica que el m�dul t� una pot�ncia de 300 Wp, aix� significa:
+(a) La pot�ncia que generar� el m�dul si est� orientat en l'angle �ptim per la latitud de l'empla�ament on est� instal?lat
+(b) La pot�ncia que pot generar el m�dul quan la irradi�ncia solar que rep �s de 1000 W/m2 en unes determinades condicions de temperatura i AM.
+(c) La pot�ncia que genera el m�dul quan la tensi� de circuit obert �s m�xima.
+(d) La pot�ncia m�xima que genera el m�dul �nicament si est� connectat en paral?lel amb altres m�duls.
+
+7. Quina �s la funci� dels d�odes de by-pass quan es connecten diversos m�duls fotovoltaics entre ells?
+(a) Eviten danys als m�duls quan estan connectats en s�rie, en cas de que un d'ells rebi menys radiaci� que la resta
+(b) Permeten incrementar la pot�ncia generada als m�duls fotovoltaics al bloquejar el corrent invers
+(c) Permeten commutar la connexi� entre la bateria i el regulador
+(d) S'encarreguen de passar a corrent altern el corrent continu generat als m�duls
+
+8. En relaci� amb les centrals solars termoel�ctriques amb concentradors cilindre-parab�lics, quina afirmaci� NO �s certa?.
+(a) Poden utilitzar oli sint�tic o sals foses com a fluid per transferir, al generador de vapor, l'energia t�rmica captada del sol
+(b) S�n de seguiment en un eix
+(c) Poden generar energia el�ctrica durant certs per�odes nocturns
+(d) En general, el rendiment global �s del mateix ordre de magnitud que les centrals t�rmiques de carb� convencionals donat que tamb� disposen d'un cicle termodin�mic.
+
+9. Quin dels seg�ents sistemes de concentraci� d'energia solar utilitza motors Stirling per generar electricitat?
+(a) Concentradors cil�ndric-parab�lics
+(b) Sistemes de torre central
+(c) Disc parab�lic
+(d) Concentradors lineals Fresnel
+
+10. En relaci� amb els aerogeneradors e�lics, que indica la f�rmula de Betz?
+(a) L'energia el�ctrica anual m�xima que pot produir un aerogenerador en un empla�ament
+(b) La velocitat mitja del vent en un empla�ament, que s'utilitza per estimar la m�xima pot�ncia generable.
+(c) Les dimensions m�ximes de la longitud dels �leps amb que es pot construir un aerogenerador per una determinada velocitat del vent.
+(d) La pot�ncia m�xima que es pot extreure del vent amb un aerogenerador, per una velocitat del vent i dimensions dels �leps de l'aerogenerador donades.
+
+11. Quin dels seg�ents par�metres NO es pot obtenir de la corba de pot�ncia d'un aerogenerador?
+(a) La velocitat del vent d'arrencada (cut-in-speed) i la velocitat del vent de parada (cut-out speed).
+(b) La pot�ncia el�ctrica nominal que pot generar.
+(c) El coeficient de pot�ncia.
+(d) Les velocitats del vent �ptimes
+
+12. Quina �s la funci� del moderador d'un reactor nuclear amb tecnologia BWR?
+(a) Reduir la temperatura del refrigerant del nucli del reactor
+(b) Disminuir la pot�ncia t�rmica generada per les fissions al nucli del reactor
+(c) Reduir l'energia dels neutrons per tal de facilitar les reaccions de fissi� amb l'U-235
+(d) Disminuir la pressi� del refrigerant del nucli del reactor per facilitar la formaci� de vapor
+
+13. Quanta energia es despr�n aproximadament de la fissi� d'un nucli d'urani?
+(a) 200 J
+(b) 200 MeV
+(c) 200 eV
+(d) 200 cal
+
+
+14. Quina afirmaci� �s certa en relaci� amb l'enriquiment isot�pic de l'urani que s'utilitzar� en un reactor nuclear amb tecnologia PWR?
+(a) L'enriquiment isot�pic consisteix en augmentar la proporci� de U-235 en front de l'U-238, superior a la que hi ha a l'urani natural
+(b) L'enriquiment isot�pic consisteix en un proc�s f�sico-qu�mic per obtenir urani amb una puresa superior al 99,999%
+(c) L'enriquiment isot�pic �s un proc�s fonamental per obtenir urani met�l?lic pur que s'utilitzar� com a combustible nuclear
+(d) L'enriquiment isot�pic es realitza amb l'urani en forma de UO2, el que permet augmentar l'efici�ncia del proc�s
+
+
+15. Si es desitja aprofitar l'exc�s de producci� d'energia el�ctrica a la xarxa, quin tipus de central hidroel�ctrica ser� m�s �til?
+(a) Una central hidroel�ctrica d'aigua fluent
+(b) Una central hidroel�ctrica de bombeig
+(c) Una central hidroel�ctrica de regulaci�
+(d) Una central hidroel�ctrica amb turbina Pelton
+
+
+
+
+RESPOSTES
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+d
+c
+c
+a
+b
+b
+a
+d
+c
+d
+c
+c
+b
+a
+b
+
+
+

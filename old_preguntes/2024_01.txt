@@ -1,0 +1,134 @@
+
+1. Quina afirmaci� �s certa en relaci� amb la corba d'Hubbert?
+(a) Representa l'evoluci� del preu del petroli al llarg dels anys
+(b) Prediu l'exist�ncia d'un pic en la producci� mundial de petroli
+(c) Prediu el consum d'energia el�ctrica al planeta en funci� de l'evoluci� de la poblaci�
+(d) Es tracta d'un indicador de la intensitat energ�tica de cada pa�s
+
+2. A l'actualitat, quina �s la proporci� aproximada del consum de combustibles f�ssils en forma d'energia prim�ria al m�n?
+(a) Entre un 50 % i un 60 %
+(b) Entre un 60 % i un 70 %
+(c) Entre un 80 % i un 90 %
+(d) M�s del 90 %
+
+3. Quin dels seg�ents elements d'una central t�rmica de carb� (cicle de Rankine) permet incrementar la temperatura del vapor per sobre la temperatura de saturaci� abans d'entrar a la turbina de vapor?
+
+(a) L'economitzador
+(b) El sobreescalfador
+(c) El calder�
+(d) El condensador
+
+4. De les seg�ents accions, quina permet un increment en el rendiment global d'una central termoel�ctrica que funciona amb un cicle de Rankine?
+(a) L'augment de la pressi� del vapor a la sortida de la turbina
+(b) L'augment de la temperatura de condensaci� del vapor al condensador
+(c) L'augment de la pressi� de l'aigua que entra a la caldera
+(d) La disminuci� de la temperatura del vapor a l'entrada de la turbina
+
+5. Una de les principals difer�ncies entre les centrals de cicle combinat (CC) i una central t�rmica de carb� convencional (CTC), consisteix en:
+(a) La pot�ncia el�ctrica generada
+(b) L'emissi� espec�fica de di�xid de carboni (CO2/kWhe) �s superior a les CC
+(c) El rendiment global de la central
+(d) No hi ha difer�ncies significatives, �nicament canvia el tipus de cicle termodin�mic
+
+6. El "Heat Rate" (Relaci� calor�fica) d'una central de cicle combinat ens permet:
+(a) Calcular el cabal de combustible consumit per generar una determinada pot�ncia el�ctrica, coneixent el PCI (LHV) del combustible.
+(b) Saber les hores de funcionament de la central t�rmica a pot�ncia nominal
+(c) Con�ixer la temperatura m�xima dels fums de combusti� a l'entrada de la turbina de gas
+(d) Calcular la pot�ncia el�ctrica m�xima que pot generar la central quan coneixem el PCI del combustible
+
+
+7. Quina de les seg�ents afirmacions no es pot aplicar a una central nuclear amb tecnologia PWR?
+(a) El vapor es genera al nucli del reactor
+(b) L'enriquiment isot�pic del combustible fresc acostuma a ser entre un 4 % i un 5%
+(c) Poden utilitzar combustible MOX (Urani i plutoni reciclat)
+(d) Disposen d'un pressionador al circuit primari per evitar que l'aigua entri en ebullici�
+
+
+8. A qu� fa refer�ncia el grau de cremat (burn-up) del combustible d'una central nuclear?
+(a) La proporci� de U-235 disponible al combustible nuclear respecte la massa total d'urani
+(b) L'enriquiment isot�pic del combustible nuclear fresc, abans d'introduir-lo al reactor nuclear
+(c) La m�xima pot�ncia el�ctrica que pot generar el combustible nuclear
+(d) L'energia t�rmica generada per unitat de massa de combustible nuclear
+
+9. En un reactor nuclear amb tecnologia PWR quina �s la funci� de l'aigua que circula pel circuit primari?
+(a) Refrigerar el nucli i frenar les fissions del U-235
+(b) Refrigerar el nucli i moderar els neutrons per tal d'afavorir la fissi� nuclear
+(c) S'evapora al generador de vapor per accionar la turbina de vapor
+(d) Atenuar la radiaci� generada per les fissions nuclears al nucli del reactor i protegir el personal
+
+10. Per quin motiu s'ha d'enriquir isot�picament l'urani que es consumir� en un reactor nuclear?
+(a) Per tal que no tingui impureses d'altres elements que puguin dificultar la fissi� nuclear
+(b) Per afegir is�tops que permetin controlar la fissi� nuclear i aix� millorar la seguretat d'operaci�
+(c) Per incrementar la proporci� de U-235 en front del U-238 que hi ha en l'urani natural
+(d) Per afegir is�tops radioactius que afavoreixin la generaci� de pot�ncia t�rmica
+
+11. El quocient entre l'energia el�ctrica generada per una central el�ctrica en un per�ode donat, i la m�xima energia el�ctrica que podria arribar a generar en aquest mateix per�ode es denomina:
+(a) Factor de c�rrega
+(b) Relaci� calor�fica
+(c) Rendiment el�ctric equivalent
+(d) Rendiment global
+
+12. En relaci� amb els aerogeneradors e�lics, que indica la f�rmula de Betz?
+(a) La velocitat �ptima del vent amb la que un aerogenerador pot generar pot�ncia el�ctrica
+(b) Les dimensions m�ximes de la longitud de les pales amb qu� es pot construir un aerogenerador
+(c) La pot�ncia m�xima que es pot extreure del vent amb un aerogenerador, per una velocitat del vent i dimensions de l'aerogenerador donades
+(d) La pot�ncia el�ctrica nominal produ�da per l'aerogenerador quan la velocitat del vent �s la �ptima de l'empla�ament
+
+
+13. En quines condicions es genera la pot�ncia de pic (nominal) d'un m�dul fotovoltaic?
+(a) Sempre que la irradi�ncia sigui la m�xima per a una latitud donada, independentment de la temperatura del m�dul
+(b) En general, quan la irradi�ncia �s de 1000 W/m2, la temperatura �s de 25 �C, i l'�ndex AM=1,5
+(c) Quan l'angle que forma el m�dul amb el pla horitzontal �s igual a la latitud de l'empla�ament
+(d) Quan la radiaci� solar incideix amb un angle normal a la superf�cie del m�dul
+
+
+14. En les centrals solars t�rmiques amb col?lectors cilindro-parab�lics, quina de les seg�ents afirmacions NO �s correcta?
+(a) Poden utilitzar sals foses com a fluid de transfer�ncia de calor
+(b) Utilitzen un sistema de seguiment del sol en un eix.
+(c) Poden emmagatzemar energia t�rmica durant el dia per generar electricitat en per�odes de baixa o nul?la irradiaci� solar.
+(d) Acostumen a utilitzar un motor Stirling per generar electricitat
+
+
+15. Quina de les seg�ents centrals hidroel�ctriques poden permetre un major estalvi del recurs h�dric?
+(a) Centrals d'aigua fluent (Run-of-the-river)
+(b) Centrals de bombeig pur
+(c) Centrals de regulaci�
+(d) Cap de les anteriors.
+
+
+
+
+RESPOSTES
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+b
+c
+b
+c
+c
+a
+a
+d
+b
+c
+a
+c
+b
+d
+b
+
+
+

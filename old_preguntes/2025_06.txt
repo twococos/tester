@@ -1,0 +1,102 @@
+1. Quin indicador ens dona informació sobre l'efici�ncia energ�tica de l'economia d'un pa�s?
+.a. La intensitat energ�tica
+b. La funci� de Hubbert
+c. El diagrama de Sankey
+d. La relaci� entre el consum d'energia el�ctrica i la disponibilitat de recursos energ�tics
+
+2. En quin cas es redueix el "heat rate" d'una planta de cicle combinat??
+a. Quan disminueix el flux de vapor que circula per la caldera
+b. Si augmenta el poder calor�fic inferior del combustible
+c. Si incrementem el consum de combustible per obtenir la mateixa energia
+.d. Quan millora el rendiment total de la planta
+
+3. Quina �s la funci� de l'economitzador en una central t�rmica que utilitza carb�?
+a. Garantir la combusti� total del combustible
+.b. Preescalfar l'aigua abans que entri a la caldera
+c. Refredar els gasos d'escapament abans de la seva expulsi�
+d. Minimitzar la generaci� d'�xids de nitrogen durant la combusti�
+
+4. Quina afirmaci� �s certa en relaci� amb la corba d'Hubbert?
+.a. Prediu l'exist�ncia d'un pic en la producci� mundial de petroli
+b. Representa l'evoluci� del preu del petroli al llarg dels anys
+c. Prediu el consum d'energia el�ctrica al planeta en funci� de l'evoluci� de la poblaci�
+d. Es tracta d'un indicador de la intensitat energ�tica de cada pa�s
+5. 
+Quin dels seg�ents elements d'una central t�rmica de carb� (cicle de Rankine) permet incrementar la temperatura del vapor per sobre la temperatura de saturaci� abans d'entrar a la turbina de vapor?
+a. L'economitzador
+.b. El sobreescalfador
+c. El calder�
+d. El condensador
+
+
+6. Quina afirmaci� �s correcta en relaci� amb les turbines e�liques?
+a. La f�rmula de Betz permet calcular l'energia el�ctrica m�xima que es pot generar anualment en un empla�ament
+b. El l�mit de Betz indica la m�nima velocitat del vent que permet moure els �leps de l'aerogenerador per generar electricitat
+.c. El l�mit de Betz indica la m�xima pot�ncia te�rica que es pot extreure del vent
+d. L'efici�ncia efectiva d'un aerogenerador de pot�ncia superior a 5 MW �s de l'ordre del 80%
+
+
+7. Quina de les seg�ents afirmacions no es pot aplicar a una central nuclear amb tecnologia PWR?
+a. L'enriquiment isot�pic del combustible fresc acostuma a ser entre un 4 % i un 5%
+b. Poden utilitzar combustible MOX (Urani i plutoni reciclat)
+.c. El vapor es genera al nucli del reactor
+d. Disposen d'un pressionador al circuit primari per evitar que l'aigua entri en ebullici�
+
+
+8. A qu� fa refer�ncia el grau de cremat (burn-up) del combustible d'una central nuclear?
+a. La proporci� de U-235 disponible al combustible nuclear respecte la massa total d'urani
+b. L'enriquiment isot�pic del combustible nuclear fresc, abans d'introduir-lo al reactor nuclear
+c. La m�xima pot�ncia el�ctrica que pot generar el combustible nuclear
+.d. L'energia t�rmica generada per unitat de massa de combustible nuclear
+
+
+9. En un reactor nuclear amb tecnologia PWR quina �s la funci� de l'aigua que circula pel circuit primari?
+.a. Refrigerar el nucli i moderar els neutrons per tal d'afavorir la fissi� nuclear
+b. Refrigerar el nucli i reduir les fissions del U-235
+c. S'evapora al generador de vapor per accionar la turbina de vapor
+d. Absorbir neutrons per tal de regular el factor de multiplicaci�
+
+
+10. Quin dels seg�ents components �s important en una central termosolar el�ctrica de col?lectors cilindro-parab�lics?
+a. La torre central
+b. El sistema de seguiment del sol en dos eixos
+c. La turbines de gas d'alta efici�ncia
+.d. El tub receptor situat al focus
+
+11. Quina �s la caracter�stica que destaca en les centrals hidroel�ctriques de bombeig, en front de les centrals hidroel�ctriques d'aigua fluent ?
+a. En general, les centrals de bombeig generen una pot�ncia el�ctrica superior a la que generen les centrals d'aigua fluent
+b. Les centrals de bombeig permeten subministrar aigua per altres usos diferents a la generaci� el�ctrica
+.c. Permeten regular la generaci�/demanda d'energia el�ctrica
+d. Les turbines de les centrals de bombeig acostumen a ser de tipus Pelton
+
+
+12. Una central t�rmica consumeix 14 m3/h de gas natural. Quina ser� la quantitat de CO2 emesa per hora?
+
+a. 224 m3/h
+.b. 14 m3/h
+c. 10 m3/h
+d. 5,1 m3/h
+
+
+13. Una central de cicle combinat, al sistema el�ctric espanyol:
+a. �s una central de base donada la poca facilitat per variar la potencia generada, aix� justifica el seu alt factor de c�rrega
+.b. Acostumen a operar en hores punta de demanda el�ctrica, ja que tenen facilitat de regulaci�
+c. Tenen un baix cost d'operaci� ja que el combustible utilitzat �s gas natural a alta pressi�
+d. Les respostes b. i c. s�n correctes
+
+
+14. Si augmenta la irradi�ncia que rep un m�dul fotovoltaic, quina de les seg�ents variables tindr� una variaci� poc significativa?
+
+.a. La tensi� de circuit obert
+b. El corrent de curt circuit
+c. La pot�ncia el�ctrica m�xima generada
+d. Cap de les anteriors
+
+15. Si la velocitat del vent que mou les pales d'un aerogenerador augmenta un factor 2, com afectar� a la pot�ncia el�ctrica generada?
+
+a. La pot�ncia el�ctrica augmentar� un factor 2
+b. La pot�ncia el�ctrica augmentar� un factor 4
+c. La pot�ncia el�ctrica augmentar� un factor 8
+.d. �nicament podem saber que passar� amb la pot�ncia el�ctrica si coneixem la corba de pot�ncia
+
+
